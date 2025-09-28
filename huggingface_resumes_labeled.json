@@ -1,0 +1,4672 @@
+[
+  {
+    "id": 0,
+    "text": "Summary: Python Developer with experience in Python, Tensorflow, Numpy, C, C++, MySQL, and various platforms.\nEducation: ME in Computer Engineering at Savitribai Phule Pune University\nEducation: B.E in Computer Engineering at Savitribai Phule Pune University\nSkills: Python, C++, C, Tensorflow, Numpy, MySQL, Unknown\nWork Experience: Python Developer at Fresher (6 months)\nProject: Unknown - Unknown",
+    "entities": [
+      [
+        110,
+        119,
+        "EDUCATION"
+      ],
+      [
+        259,
+        265,
+        "SKILLS"
+      ],
+      [
+        317,
+        332,
+        "WORK EXPERIENCE"
+      ],
+      [
+        373,
+        380,
+        "PROJECT EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 1,
+    "text": "Summary: Experienced Operations Manager with expertise in project execution, engineering, and team coordination. Skilled in managing contractual and commercial issues, ensuring project profitability, and maintaining high client satisfaction.\nEducation: B.E in Electronics at Pune University\nSkills: Project Execution, Quality Management, Budget Monitoring, PLC Programming, SCADA Systems, SAP, Microsoft Visio\nWork Experience: Operations Manager at Delta Controls, Dubai FZCO (7 years)\nWork Experience: Project Lead at Honeywell Automation India Ltd (1 year 1 month)\nWork Experience: Project Engineer at Fox Controls (Unknown)\nWork Experience: Commissioning Leader at Enercon (India) Limited (Unknown)\nProject: FGP/WPMP - Led system configuration and application development for EPKS DCS + SIS + FGS.\nProject: Grain LNG RTLF - Managed LNG Tanker Loading system development.\nProject: AMC TO HPM Migration-MX8800 - Led migration of HPM controllers for Thai Oil Public Co. Ltd.\nProject: Utilities and Offsites - Managed utilities for ETHYLENE plant in Egypt.\nProject: Control Plant-3/ Control Plant-6 - Led HVAC system development for Qatar Foundation.\nProject: Graphics Development - Developed HMI graphics for Chevron Oronite, Singapore.",
+    "entities": [
+      [
+        242,
+        251,
+        "EDUCATION"
+      ],
+      [
+        291,
+        297,
+        "SKILLS"
+      ],
+      [
+        410,
+        425,
+        "WORK EXPERIENCE"
+      ],
+      [
+        702,
+        709,
+        "PROJECT EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Summary: Software Proficiency in various languages and tools. Worked on several projects including FPGA Implementation, Sorting Robot, and RFID Based Student Attendance System.\nEducation: B.E. in Not Provided at Savitribai Phule Pune University\nSkills: C, SQL, PL/SQL, JAVA, JAVAEE, Javascript, HTML, CSS, jquery, mysql, Spring, Hibernate, Python, Not Provided, Not Provided, AWS\nWork Experience: DevOps Engineer at Parkar Consulting and Labs (Not Provided)\nProject: FPGA Implementation - AES is Advanced Encryption Standard which is used in cryptography by which we can protect our data. It encrypted by a Secret Key.\nProject: Sorting Robot - The TCS 230 sensor sorts the RGB color balls according to their color.\nProject: RFID Based Student Attendance System - In this student show RFID card of his own and then message send via GSM to their parent that his ward is present.",
+    "entities": [
+      [
+        177,
+        186,
+        "EDUCATION"
+      ],
+      [
+        245,
+        251,
+        "SKILLS"
+      ],
+      [
+        380,
+        395,
+        "WORK EXPERIENCE"
+      ],
+      [
+        458,
+        465,
+        "PROJECT EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Summary: Experienced Operations Manager with expertise in project execution, engineering, and team coordination. Skilled in managing contractual and commercial issues, ensuring project profitability, and maintaining high client satisfaction.\nEducation: B.E in Electronics at Pune University\nSkills: Project Execution, Quality Management, Budget Monitoring, PLC Programming, SCADA Systems, SAP, Microsoft Visio\nWork Experience: Operations Manager at Delta Controls, Dubai FZCO (7 years)\nWork Experience: Project Lead at Honeywell Automation India Ltd (1 year 1 month)\nWork Experience: Project Engineer at Fox Controls (Unknown)\nWork Experience: Commissioning Leader at Enercon (India) Limited (Unknown)\nProject: FGP/WPMP - Led system configuration and application development for EPKS DCS + SIS + FGS.\nProject: Grain LNG RTLF - Managed LNG Tanker Loading system development.\nProject: AMC TO HPM Migration-MX8800 - Led migration of HPM controllers for Thai Oil Public Co. Ltd.\nProject: Utilities and Offsites - Managed utilities for ETHYLENE plant in Egypt.\nProject: Control Plant-3/ Control Plant-6 - Led HVAC system development for Qatar Foundation.\nProject: Graphics Development - Developed HMI graphics for Chevron Oronite, Singapore.",
+    "entities": [
+      [
+        242,
+        251,
+        "EDUCATION"
+      ],
+      [
+        291,
+        297,
+        "SKILLS"
+      ],
+      [
+        410,
+        425,
+        "WORK EXPERIENCE"
+      ],
+      [
+        702,
+        709,
+        "PROJECT EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Education: Bachelor of Engineering in Computer at Savitribai Phule Pune University\nEducation: HSC in  at Maharashtra State Board\nEducation: SSC in  at Maharashtra State Board\nSkills: Python, Django, MySQL\nWork Experience: Python Developer at Atos Syntel (15 months)",
+    "entities": [
+      [
+        0,
+        9,
+        "EDUCATION"
+      ],
+      [
+        175,
+        181,
+        "SKILLS"
+      ],
+      [
+        205,
+        220,
+        "WORK EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Education: Diploma in Computer Science at Aissms\nEducation: BE in Computer Science at Anantrao pawar college of Engineering & Research centre\nSkills: Python\nWork Experience: Python Developer at Cybage Software Pvt. Ltd ()",
+    "entities": [
+      [
+        0,
+        9,
+        "EDUCATION"
+      ],
+      [
+        142,
+        148,
+        "SKILLS"
+      ],
+      [
+        157,
+        172,
+        "WORK EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 6,
+    "text": "Education: B.E in Computer Science and Engineering at RTMNU University - Jhulelal Institute of Technology\nEducation: HSC in  at Maharashtra State Board - Dayanand Arya Kanya Junior College\nEducation: SSC in  at Maharashtra State Board\nSkills: C, C++, J2EE, Spring, Hibernate, My SQL, PostgreSQL\nWork Experience: Java Developer at Inouvelle Ventures Private Limited ()\nProject: Stock Management System - Stock management System is Specially Developing for the Medicinal Market. This software is developing to keep the track of medicines, ailments, surgical Equipments, & also to keep the track of Wholesalers, Retailers, Employees, & Customers of the Company. Stock management system is the practice of ordering, storing, tracking, and controlling inventory. Debtor invoicing software helps small businesses and freelancers keep track of company assets. Stock management may also be called stock control, inventory management or inventory control.",
+    "entities": [
+      [
+        0,
+        9,
+        "EDUCATION"
+      ],
+      [
+        235,
+        241,
+        "SKILLS"
+      ],
+      [
+        295,
+        310,
+        "WORK EXPERIENCE"
+      ],
+      [
+        368,
+        375,
+        "PROJECT EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 7,
+    "text": "Summary: Experienced Java Developer with expertise in JSP, Servlets, Spring, Hibernate, and front-end technologies like HTML, CSS, JavaScript, and jQuery. Proficient in MySQL and development tools such as Eclipse and NetBeans.\nEducation: High School in Science at VidyaBharati College\nEducation: Secondary School in General at Holy Cross English School\nSkills: Java, Spring, Hibernate, MySQL\nWork Experience: Java Developer at Kunal IT Services Pvt Ltd (2 years)\nWork Experience: Java Developer at Winsol Solution Pvt Ltd (Ongoing)",
+    "entities": [
+      [
+        227,
+        236,
+        "EDUCATION"
+      ],
+      [
+        353,
+        359,
+        "SKILLS"
+      ],
+      [
+        392,
+        407,
+        "WORK EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 8,
+    "text": "Education: B.E. in Computer Technology at Manoharbhai Patel Institute of Engineering and Technology\nEducation: HSC in  at S.M.P. Science College\nSkills: Java, SQL, PL/SQL, C, C++, JSP, Ext JS, Oracle, MS-SQL, MS-Access, MS-Excel\nWork Experience: Java Developer at Xoriant Solutions Pvt Ltd ()",
+    "entities": [
+      [
+        0,
+        9,
+        "EDUCATION"
+      ],
+      [
+        145,
+        151,
+        "SKILLS"
+      ],
+      [
+        229,
+        244,
+        "WORK EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 9,
+    "text": "Education: BE in Electronics & Communication at Takshshila Institute of Technology\nSkills: Java, JavaScript\nWork Experience: Jr. Java Developer at Wab It Software Pvt. Ltd. (6 months)",
+    "entities": [
+      [
+        0,
+        9,
+        "EDUCATION"
+      ],
+      [
+        83,
+        89,
+        "SKILLS"
+      ],
+      [
+        108,
+        123,
+        "WORK EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 10,
+    "text": "Summary: Devops Engineer with experience in various DevOps methodologies and tools.\nEducation: Masters in science information technology at JNTU\nSkills: C, Core Java, Unknown, Unknown, Unknown\nWork Experience: Devops Engineer at Nendrasys Technologies Pvt Ltd (Unknown)\nProject: Unknown - Unknown",
+    "entities": [
+      [
+        84,
+        93,
+        "EDUCATION"
+      ],
+      [
+        145,
+        151,
+        "SKILLS"
+      ],
+      [
+        193,
+        208,
+        "WORK EXPERIENCE"
+      ],
+      [
+        270,
+        277,
+        "PROJECT EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 11,
+    "text": "Education: B.E. in Information Technology at Vidyalankar Institute of Technology\nEducation: Diploma in  at Thakur Polytechnic\nEducation: High School in  at St. John's Universal School\nSkills: Java, J2EE, Swift, HTML, Shell Script, MySQL\nWork Experience: Java Developer at Tech Mahindra (21 months)\nWork Experience: Java Developer at Tech Mahindra ()",
+    "entities": [
+      [
+        0,
+        9,
+        "EDUCATION"
+      ],
+      [
+        184,
+        190,
+        "SKILLS"
+      ],
+      [
+        237,
+        252,
+        "WORK EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 12,
+    "text": "Summary: IABAC Certified Data Scientist with versatile experience over 1+ years in managing business, data science consulting and leading innovation projects, bringing business ideas to working real world solutions. Being a strong advocator of augmented era, where human capabilities are enhanced by machines, Fahed is passionate about bringing business concepts in area of machine learning, AI, robotics etc., to real life solutions.\nEducation: B. Tech in Computer Science & Engineering at Indo Global College of Engineering\nSkills: Python, R Studio, Machine Learning, Data Visualization, Tableau\nWork Experience: Data Science Consultant at Datamites ()\nWork Experience:  at Heretic Solutions Pvt Ltd ()",
+    "entities": [
+      [
+        435,
+        444,
+        "EDUCATION"
+      ],
+      [
+        526,
+        532,
+        "SKILLS"
+      ],
+      [
+        598,
+        613,
+        "WORK EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 13,
+    "text": "Summary: Python Developer/analyst\nEducation: B.E. in Electronics at University of Mumbai\nSkills: Python, C, C++, Java, HTML, Django, MySQL, Unknown\nWork Experience: Python Developer/analyst at Ace The Power of 5 (12 months)\nWork Experience: Python Developer/analyst at Kranti Dynamics (12 months)\nProject: Fruit Sorting and Disease Detection - Unknown",
+    "entities": [
+      [
+        34,
+        43,
+        "EDUCATION"
+      ],
+      [
+        89,
+        95,
+        "SKILLS"
+      ],
+      [
+        148,
+        163,
+        "WORK EXPERIENCE"
+      ],
+      [
+        297,
+        304,
+        "PROJECT EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 14,
+    "text": "Summary: Java Developer with experience in Hibernate, JSP, and Servlets. Passionate about software development and programming.\nEducation: ME in Computer Science at Savitribai Phule Pune University\nEducation: SSC in General Education at Maharashtra Secondary Board\nSkills: Java, C, C++, Hibernate, JSP, Servlets, SQL, MySQL, Oracle 9i, Oracle 10g\nWork Experience: Java Developer at Maxgen Technologies Pvt. Ltd. (Unknown)\nWork Experience: Trainer at Prakshal IT Academy (Unknown)\nProject: Banking Software - Used GSM technology for transaction messages for security purposes.\nProject: Single Sign-On - Created a 'Single Sign-On' mechanism for network security.\nProject: Text-Based Graphical Password - Developed a secure password system using Random Printing Algorithm to prevent shoulder surfing attacks.\nProject: Agriculture Management System - Created a web application for agriculture system and farming.",
+    "entities": [
+      [
+        128,
+        137,
+        "EDUCATION"
+      ],
+      [
+        265,
+        271,
+        "SKILLS"
+      ],
+      [
+        347,
+        362,
+        "WORK EXPERIENCE"
+      ],
+      [
+        480,
+        487,
+        "PROJECT EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 15,
+    "text": "Summary: IABAC Certified Data Scientist with versatile experience over 1+ years in managing business, data science consulting and leading innovation projects, bringing business ideas to working real world solutions. Being a strong advocator of augmented era, where human capabilities are enhanced by machines, Fahed is passionate about bringing business concepts in area of machine learning, AI, robotics etc., to real life solutions.\nEducation: B. Tech in Computer Science & Engineering at Indo Global College of Engineering\nSkills: Python, R Studio, Machine Learning, Data Visualization, Tableau\nWork Experience: Data Science Consultant at Datamites ()\nWork Experience:  at Heretic Solutions Pvt Ltd ()",
+    "entities": [
+      [
+        435,
+        444,
+        "EDUCATION"
+      ],
+      [
+        526,
+        532,
+        "SKILLS"
+      ],
+      [
+        598,
+        613,
+        "WORK EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 16,
+    "text": "Summary: Final year Computer Science student at City, University of London with strong focus on machine learning and software engineering. Experienced in developing ML-powered applications and passionate about solving complex technical challenges.\nEducation: Bachelor in Commerce at Mumbai University\nSkills: Python, Visual Basic 6.0, Selenium, RALLY / IBM TD Platform, SAFe - Agile Craft, MS-SQL Server / Oracle 8/8i, AWS, Docker\nWork Experience: Project Manager at AT&T (11 years 2 months)\nProject: Thunderbird program - One-Stop-Test-Shop catering to AT&T's Enterprise-wide business critical applications. As part of this Fixed Price engagement various types of testing like System, Regression, Sanity and UAT support gets executed through Agile Methodologies on applications under Billing and Sales domain.",
+    "entities": [
+      [
+        248,
+        257,
+        "EDUCATION"
+      ],
+      [
+        301,
+        307,
+        "SKILLS"
+      ],
+      [
+        431,
+        446,
+        "WORK EXPERIENCE"
+      ],
+      [
+        492,
+        499,
+        "PROJECT EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 17,
+    "text": "Summary: Cloud Operations Architect (DevOps) with experience in various technologies and platforms.\nEducation: Post Graduate Diploma in Information Technology at Symbiosis Institute\nEducation: Bachelor of Engineering in Electronics and Telecommunications at Pune University\nSkills: Python, Shell Scripting, Not Provided, Not Provided, AWS, Azure\nWork Experience: Cloud Operations Architect (DevOps) at DevOps (Not Provided)\nProject: Not Provided - Not Provided",
+    "entities": [
+      [
+        100,
+        109,
+        "EDUCATION"
+      ],
+      [
+        274,
+        280,
+        "SKILLS"
+      ],
+      [
+        346,
+        361,
+        "WORK EXPERIENCE"
+      ],
+      [
+        424,
+        431,
+        "PROJECT EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 18,
+    "text": "Education: B.E in Information Technology at Savitribai Phule Pune University\nEducation: Higher Secondary in  at Higher Secondary School\nSkills: Java, Spring, Hibernate, MongoDB, MySQL\nWork Experience: Java Developer at Vertical Software ()\nProject: Expense Ledger -\nProject: Trimurti Developer (Real Estate) -\nProject: Vimay Enterprise -",
+    "entities": [
+      [
+        0,
+        9,
+        "EDUCATION"
+      ],
+      [
+        136,
+        142,
+        "SKILLS"
+      ],
+      [
+        184,
+        199,
+        "WORK EXPERIENCE"
+      ],
+      [
+        240,
+        247,
+        "PROJECT EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 19,
+    "text": "Summary: A Microsoft Certified Systems Engineer and Advocate with exceptional knowledge of administrative procedures, evidence rules and trials. Able to communicate clearly and concisely with people of diverse backgrounds and levels of authority. Focused and driven to always meet deadlines for pretrial procedures, trials and appellate briefings by effectively utilizing resources.\nEducation: Bachelor's in Laws at Maharaja Ganga Singh University\nEducation: Microsoft Certified Systems Engineer in Networking at Microsoft\nEducation: Bachelor's in Bio-Informatics at Panjab University\nWork Experience: Advocate at District Courts ()",
+    "entities": [
+      [
+        383,
+        392,
+        "EDUCATION"
+      ],
+      [
+        585,
+        600,
+        "WORK EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 20,
+    "text": "Summary: Final year Computer Science student at City, University of London with strong focus on machine learning and software engineering. Experienced in developing ML-powered applications and passionate about solving complex technical challenges.\nEducation: BSc in Computer Science at City, University of London\nSkills: Python, JavaScript, Java, PyTorch, FastAPI, React, PostgreSQL, MongoDB, AWS, Docker\nWork Experience: Machine Learning Engineer Intern at TechStart AI (3 months)\nProject: Resume Parser & Job Matcher - Final year project: AI-powered system for matching job seekers with relevant positions using NLP",
+    "entities": [
+      [
+        248,
+        257,
+        "EDUCATION"
+      ],
+      [
+        313,
+        319,
+        "SKILLS"
+      ],
+      [
+        405,
+        420,
+        "WORK EXPERIENCE"
+      ],
+      [
+        482,
+        489,
+        "PROJECT EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 21,
+    "text": "Summary: Highly motivated Software Testing & Automation Engineer with strong work ethics, quick learning ability, and experience in test automation, defect tracking, and Agile methodologies.\nEducation: Bachelor of Technology in Information Technology at BPUT University\nEducation: Diploma in Engineering at U.C.P Engineering School\nWork Experience: Software Testing & Automation Engineer at Tech Mahindra (6 years 8 months)\nWork Experience: Software Engineer at Tech Mahindra (2 years 7 months)",
+    "entities": [
+      [
+        191,
+        200,
+        "EDUCATION"
+      ],
+      [
+        332,
+        347,
+        "WORK EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 22,
+    "text": "Summary: Cloud Operations Architect (DevOps) with experience in various technologies and platforms.\nEducation: Post Graduate Diploma in Information Technology at Symbiosis Institute\nEducation: Bachelor of Engineering in Electronics and Telecommunications at Pune University\nSkills: Python, Shell Scripting, Not Provided, Not Provided, AWS, Azure\nWork Experience: Cloud Operations Architect (DevOps) at DevOps (Not Provided)\nWork Experience: Administration, automation & Monitoring at Synechron Technologies Limited (Not Provided)\nProject: Not Provided - Not Provided",
+    "entities": [
+      [
+        100,
+        109,
+        "EDUCATION"
+      ],
+      [
+        274,
+        280,
+        "SKILLS"
+      ],
+      [
+        346,
+        361,
+        "WORK EXPERIENCE"
+      ],
+      [
+        530,
+        537,
+        "PROJECT EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 23,
+    "text": "Summary: Hardworking Java Developer enthusiastic about working with multicultural teams. Having 2 years of experience in working with a Payment Gateway Solutions provider with Core Java.\nEducation: Bachelor of Engineering in Computer at Savitribai Phule Pune University\nSkills: Java, Advanced Java, Oracle, Derby, MySQL, Windows, Linux (CentOS 6.6), Eclipse (Oxygen), SonarQube, Putty\nWork Experience: Java Developer at Aurus Tech Pvt. Ltd (2 years)",
+    "entities": [
+      [
+        187,
+        196,
+        "EDUCATION"
+      ],
+      [
+        270,
+        276,
+        "SKILLS"
+      ],
+      [
+        385,
+        400,
+        "WORK EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 24,
+    "text": "Education: BE in Information Technology at PJLCE\nSkills: C++, C, Java, DS, Hibernate, JDBC, Java J2EE\nWork Experience: Java Developer at Almighty Tech Pvt Ltd ()",
+    "entities": [
+      [
+        0,
+        9,
+        "EDUCATION"
+      ],
+      [
+        49,
+        55,
+        "SKILLS"
+      ],
+      [
+        102,
+        117,
+        "WORK EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 25,
+    "text": "Summary: Senior Business Analyst with extensive experience in RPA, process automation, and business analysis. Skilled in documentation, testing, and integration with a strong background in Agile and Waterfall methodologies.\nEducation: Bachelor in Computer Engineering at Thadomal Shahani Engineering College\nEducation: Diploma in Computer Engineering at Institute of Technology\nEducation: Secondary School Certificate in General Education at New English High School\nSkills: SQL\nWork Experience: Senior Business Analyst - RPA at Hexaware Technologies (Unknown)\nWork Experience: Business Analyst at BBH - Brown Brothers Harriman & Co (Unknown)\nWork Experience: Business Analyst at First Advantage (Unknown)",
+    "entities": [
+      [
+        224,
+        233,
+        "EDUCATION"
+      ],
+      [
+        466,
+        472,
+        "SKILLS"
+      ],
+      [
+        478,
+        493,
+        "WORK EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 26,
+    "text": "Summary: Experienced Python RESTful API developer with expertise in MongoDB, MySQL, and AS/400. Strong background in software development life cycle, debugging, and testing. Skilled in agile methodologies and cloud deployment using Pivotal Cloud Foundry.\nEducation: MSc in Computer Science at Pune University\nEducation: BSc in Computer Science at Pune University\nSkills: Python, Java, RPG/400, Flask, Django, MongoDB, MySQL, PostgreSQL, DB2/400, Pivotal Cloud Foundry\nWork Experience: Python RESTful API Developer at KPIT Technologies (13 years)\nWork Experience: M3 Java Developer & Stream Serve Developer at KPIT Technologies (1 year)\nWork Experience: Senior AS/400 & Stream Serve Developer at KPIT Technologies (4 years)",
+    "entities": [
+      [
+        255,
+        264,
+        "EDUCATION"
+      ],
+      [
+        363,
+        369,
+        "SKILLS"
+      ],
+      [
+        468,
+        483,
+        "WORK EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 27,
+    "text": "Education: BE in Computer Engineering at Late G.N. Sapkal College of Engineering\nEducation: Diploma in Computer Technology at K K Wagh Polytechnic\nSkills: Java, J2EE, Spring MVC, Ionic 3, AngularJS, Struts, MySQL, MsSQL, Oracle, Azure Web Services\nWork Experience: Java Developer at Replete Business Solutions Pvt Ltd ()",
+    "entities": [
+      [
+        0,
+        9,
+        "EDUCATION"
+      ],
+      [
+        147,
+        153,
+        "SKILLS"
+      ],
+      [
+        248,
+        263,
+        "WORK EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 28,
+    "text": "Summary: SAP Technical Architect with 13+ years of experience in SAP, ranging from development to subject matter expertise. Strong background in implementation, upgrade, application development, and maintenance. Certified in SAP ABAP, ITIL 2011 Foundation, and PRINCE2 Practitioner. Extensive experience in SAP ABAP FRICEW components, multiple SAP modules, and S/4HANA. Proven ability to lead technical teams and manage full-lifecycle SAP projects.\nSkills: SAP ABAP, SAP NetWeaver Gateway, oData, Fiori\nWork Experience: SAP Technical Architect at  (13 years)",
+    "entities": [
+      [
+        449,
+        455,
+        "SKILLS"
+      ],
+      [
+        503,
+        518,
+        "WORK EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 29,
+    "text": "Summary: Java Developer with experience in Hibernate, JSP, and Servlets. Passionate about software development and programming.\nEducation: ME in Computers at Savitribai Phule Pune University\nEducation: SSC in General Education at Maharashtra Secondary Board\nSkills: Java, C, C++, Hibernate, Spring, SQL, MySQL, Oracle 9i, Oracle 10g\nWork Experience: Java Developer at Maxgen Technologies Pvt. Ltd. (Unknown)\nWork Experience: Trainer at Prakshal IT Academy (Unknown)\nProject: Banking Software - Used GSM technology for transaction messages for security purposes.\nProject: Single Sign-On - Created a 'Single Sign-On' mechanism for network security.\nProject: Text-Based Graphical Password - Developed a secure password system using Random Printing Algorithm to prevent shoulder surfing attacks.\nProject: Agriculture Management System - Created a web application for agriculture system and farming.",
+    "entities": [
+      [
+        128,
+        137,
+        "EDUCATION"
+      ],
+      [
+        258,
+        264,
+        "SKILLS"
+      ],
+      [
+        333,
+        348,
+        "WORK EXPERIENCE"
+      ],
+      [
+        466,
+        473,
+        "PROJECT EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 30,
+    "text": "Summary: Experienced Operations Manager with expertise in project execution, engineering, and team coordination. Skilled in managing contractual and commercial issues, ensuring project profitability, and maintaining high client satisfaction.\nEducation: B.E in Electronics at Pune University\nSkills: Project Execution, Quality Management, Budget Monitoring, PLC Programming, SCADA Systems, SAP, Microsoft Visio\nWork Experience: Operations Manager at Delta Controls, Dubai FZCO (7 years)\nWork Experience: Project Lead at Honeywell Automation India Ltd (1 year 1 month)\nWork Experience: Project Engineer at Fox Controls (Unknown)\nWork Experience: Commissioning Leader at Enercon (India) Limited (Unknown)\nProject: FGP/WPMP - Led system configuration and application development for EPKS DCS + SIS + FGS.\nProject: Grain LNG RTLF - Managed LNG Tanker Loading system development.\nProject: AMC TO HPM Migration-MX8800 - Led migration of HPM controllers for Thai Oil Public Co. Ltd.\nProject: Utilities and Offsites - Managed utilities for ETHYLENE plant in Egypt.\nProject: Control Plant-3/ Control Plant-6 - Led HVAC system development for Qatar Foundation.\nProject: Graphics Development - Developed HMI graphics for Chevron Oronite, Singapore.",
+    "entities": [
+      [
+        242,
+        251,
+        "EDUCATION"
+      ],
+      [
+        291,
+        297,
+        "SKILLS"
+      ],
+      [
+        410,
+        425,
+        "WORK EXPERIENCE"
+      ],
+      [
+        702,
+        709,
+        "PROJECT EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 31,
+    "text": "Summary: Java Developer with experience in Spring MVC, Hibernate, JDBC, and various web technologies. Skilled in database management and front-end scripting.\nEducation: BE in Computer Engineering at Late G.N. Sapkal College of Engineering\nEducation: Diploma in Computer Technology at K K Wagh Polytechnic\nSkills: Java, J2EE, Spring MVC, Ionic 3, AngularJS, MySQL, MsSQL, Oracle, Azure Web Services\nWork Experience: Java Developer at Replete Business Solutions Pvt Ltd (Unknown)",
+    "entities": [
+      [
+        158,
+        167,
+        "EDUCATION"
+      ],
+      [
+        305,
+        311,
+        "SKILLS"
+      ],
+      [
+        398,
+        413,
+        "WORK EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 32,
+    "text": "Education: BE in Computer Science at Mumbai University\nEducation: HSC in  at Maharashtra State Board\nEducation: SSC in  at Maharashtra State Board\nWork Experience: Business Analyst at Fino Payments Bank ()\nWork Experience: Business Analyst at Fino Paytech Pvt. Ltd ()",
+    "entities": [
+      [
+        0,
+        9,
+        "EDUCATION"
+      ],
+      [
+        147,
+        162,
+        "WORK EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 33,
+    "text": "Summary: Experienced Operations Manager with expertise in project execution, engineering, and team coordination. Skilled in managing contractual and commercial issues, ensuring project profitability, and maintaining high client satisfaction.\nEducation: B.E in Electronics at Pune University\nSkills: Project Execution, Quality Management, Budget Monitoring, PLC Programming, SCADA Systems, SAP, Microsoft Visio\nWork Experience: Operations Manager at Delta Controls, Dubai FZCO (7 years)\nWork Experience: Project Lead at Honeywell Automation India Ltd (1 year 1 month)\nWork Experience: Project Engineer at Fox Controls (Unknown)\nWork Experience: Commissioning Leader at Enercon (India) Limited (Unknown)\nProject: FGP/WPMP - Led system configuration and application development for EPKS DCS + SIS + FGS.\nProject: Grain LNG RTLF - Managed LNG Tanker Loading system development.\nProject: AMC TO HPM Migration-MX8800 - Led migration of HPM controllers for Thai Oil Public Co. Ltd.\nProject: Utilities and Offsites - Managed utilities for ETHYLENE plant in Egypt.\nProject: Control Plant-3/ Control Plant-6 - Led HVAC system development for Qatar Foundation.\nProject: Graphics Development - Developed HMI graphics for Chevron Oronite, Singapore.",
+    "entities": [
+      [
+        242,
+        251,
+        "EDUCATION"
+      ],
+      [
+        291,
+        297,
+        "SKILLS"
+      ],
+      [
+        410,
+        425,
+        "WORK EXPERIENCE"
+      ],
+      [
+        702,
+        709,
+        "PROJECT EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 34,
+    "text": "Summary: SAP Technical Architect and Consultant with 13+ years of experience in SAP, covering implementation, upgrade, application development, and maintenance. Expertise in SAP ABAP, SAP NetWeaver Gateway, S/4HANA, and multiple SAP modules. Strong leadership, client interaction, and project management skills.\nSkills: SAP ABAP, SAP NetWeaver Gateway, oData, Fiori\nWork Experience: SAP Technical Architect at Unknown (13+ years)",
+    "entities": [
+      [
+        312,
+        318,
+        "SKILLS"
+      ],
+      [
+        366,
+        381,
+        "WORK EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 35,
+    "text": "Summary: Experienced Java Developer with expertise in JSP, Servlets, Spring, Hibernate, and front-end technologies like HTML, CSS, JavaScript, and jQuery. Proficient in MySQL and development tools such as Eclipse and NetBeans.\nEducation: High School in Science at VidyaBharati College\nEducation: Secondary School in General Education at Holy Cross English School\nSkills: Java, Spring, Hibernate, MySQL\nWork Experience: Java Developer at Kunal IT Services Pvt Ltd (2 years)\nWork Experience: Java Developer at Winsol Solution Pvt Ltd (Ongoing)",
+    "entities": [
+      [
+        227,
+        236,
+        "EDUCATION"
+      ],
+      [
+        363,
+        369,
+        "SKILLS"
+      ],
+      [
+        402,
+        417,
+        "WORK EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 36,
+    "text": "Summary: DevOps Engineer with software proficiency in various languages and tools.\nEducation: B.E. in Unknown at Savitribai Phule Pune University\nSkills: C, SQL, PL/SQL, JAVA, JAVAEE, Javascript, HTML, CSS, jquery, mysql, Spring, Hibernate, Python, Unknown, Unknown, AWS\nWork Experience: DevOps Engineer at Parkar Consulting and Labs (Unknown)\nProject: FPGA Implementation - B.E. Project: AES Algorithm is Advanced Encryption Standard which is used in cryptography by which we can protect our data. It encrypted by a Secret Key.\nProject: Sorting Robot - T.E. project: The TCS 230 sensor sorts the RGB color balls according to their color.\nProject: RFID Based Student Attendance System Using GSM - Diploma Project: In this student show RFID card of his own and then message send via GSM to their parent that his ward is present.",
+    "entities": [
+      [
+        83,
+        92,
+        "EDUCATION"
+      ],
+      [
+        146,
+        152,
+        "SKILLS"
+      ],
+      [
+        271,
+        286,
+        "WORK EXPERIENCE"
+      ],
+      [
+        344,
+        351,
+        "PROJECT EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 37,
+    "text": "Summary: Unknown\nEducation: Bachelor of Engineering in Computer at Savitribai Phule Pune University\nSkills: Python, Database, MySQL, Django, HTML5, REST API, Unknown, Unknown, Unknown\nWork Experience: Python Developer at Atos Syntel (Unknown)\nProject: Unknown - Unknown",
+    "entities": [
+      [
+        17,
+        26,
+        "EDUCATION"
+      ],
+      [
+        100,
+        106,
+        "SKILLS"
+      ],
+      [
+        184,
+        199,
+        "WORK EXPERIENCE"
+      ],
+      [
+        243,
+        250,
+        "PROJECT EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 38,
+    "text": "Summary: Devops Engineer with strong focus on Dev-ops methodologies, C, Core Java, GIT, Bitbucket, ANT, Maven, Jenkins, Ansible, Shell Script, Apache Tomcat server.\nEducation: Masters in science information technology at JNTU\nSkills: C, Core Java, Unknown, Unknown, Unknown\nWork Experience: Devops Engineer at Nendrasys Technologies Pvt Ltd (Unknown)\nProject: Sloan Global Holdings (Sloan) (E-commerce) - The Scope of the project is to design & develop e-commerce product features for sloan project. It's a basically B2B project where customer can buy all fixers, sinks related product. It focuses on the company, the stakeholders and applications, which allow for online sales, distribution and marketing of product.",
+    "entities": [
+      [
+        165,
+        174,
+        "EDUCATION"
+      ],
+      [
+        226,
+        232,
+        "SKILLS"
+      ],
+      [
+        274,
+        289,
+        "WORK EXPERIENCE"
+      ],
+      [
+        351,
+        358,
+        "PROJECT EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 39,
+    "text": "Summary: Not Provided\nEducation: Bachelor of Art in Economics at Dibrugarh University\nEducation: MBA in Information Technology at Sikkim Manipal University\nEducation: Not Provided in Software Engineering and Computer Science at NIIT\nSkills: MICROSOFT SHAREPOINT, SHAREPOINT, SQL, ASP, ASP.NET, Not Provided, Not Provided, Not Provided\nWork Experience: Project Manager at Aditya Birla Group (Not Provided)\nProject: Not Provided - Not Provided",
+    "entities": [
+      [
+        22,
+        31,
+        "EDUCATION"
+      ],
+      [
+        233,
+        239,
+        "SKILLS"
+      ],
+      [
+        335,
+        350,
+        "WORK EXPERIENCE"
+      ],
+      [
+        405,
+        412,
+        "PROJECT EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 40,
+    "text": "Education: BE in Computer Engineering at Late G.N. Sapkal College of Engineering\nEducation: Diploma in Computer Technology at K K Wagh Polytechnic\nSkills: Java, J2EE, Spring MVC, Ionic 3, AngularJS, MySQL, MsSQL, AJAX, HTML\nWork Experience: Java Developer at Replete Business Solutions Pvt Ltd ()",
+    "entities": [
+      [
+        0,
+        9,
+        "EDUCATION"
+      ],
+      [
+        147,
+        153,
+        "SKILLS"
+      ],
+      [
+        224,
+        239,
+        "WORK EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 41,
+    "text": "Summary: Network Security Engineer with Cisco certifications and experience in various networking technologies.\nEducation: B.E in Technology at Mumbai university\nWork Experience: Network Security Engineer at Stormfur Technologies LLP (Not Provided)\nProject: Temperature Controlled Cooling Fan - This project simply senses the temperature level and turn ON the FAN when temperature is above set limit. This project was developed with an aim to control the temperature of devices and reduce the damages of the devices because of heating.\nProject: Automatic Plant Watering System - This project simply senses the moisture level and turn ON the water pump when moisture is",
+    "entities": [
+      [
+        112,
+        121,
+        "EDUCATION"
+      ],
+      [
+        162,
+        177,
+        "WORK EXPERIENCE"
+      ],
+      [
+        249,
+        256,
+        "PROJECT EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 42,
+    "text": "Education: MSc in Computer Science at Pune University\nEducation: BSc in Computer Science at Pune University\nSkills: Python, Java, Flask, Django, MongoDB, MySQL, PostgreSQL, Pivotal Cloud Foundry\nWork Experience: Python RESTful API developer at KPIT Technologies (10 years)",
+    "entities": [
+      [
+        0,
+        9,
+        "EDUCATION"
+      ],
+      [
+        108,
+        114,
+        "SKILLS"
+      ],
+      [
+        195,
+        210,
+        "WORK EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 43,
+    "text": "Education: Master of Engineering in Information Technology at M.I.T\nEducation: Bachelor of Engineering in Information Technology at Amravati University\nEducation: Higher Secondary in  at P. N. Junior College\nEducation: Secondary School Certificate in  at K.D. High-School\nSkills: C, C++, Java, Android, MS Access, SQL, Oracle\nWork Experience: Java Developer at Maxgen Technologies ()\nWork Experience:  at MIS Generation of Tata Sky and Tata Power ()\nProject: Location Detector of Computing and Mobile Devices - Android project for detecting location of computing and mobile devices.\nProject: Data Deduplication - Project to reduce redundant data from the system and free up memory by storing unique copies of data and using pointers for access.",
+    "entities": [
+      [
+        0,
+        9,
+        "EDUCATION"
+      ],
+      [
+        272,
+        278,
+        "SKILLS"
+      ],
+      [
+        326,
+        341,
+        "WORK EXPERIENCE"
+      ],
+      [
+        450,
+        457,
+        "PROJECT EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 44,
+    "text": "Summary: Hardworking Java Developer enthusiastic about working with multicultural teams. Having 2 years of experience in working with a Payment Gateway Solutions provider with Core Java.\nEducation: Bachelor of Engineering in Computer at Savitribai Phule Pune University\nSkills: Java, Advanced Java, Oracle, Derby, MySQL, Windows, Linux (CentOS 6.6), Eclipse (Oxygen), SonarQube, Putty\nWork Experience: Java Developer at Aurus Tech Pvt. Ltd (2 years)",
+    "entities": [
+      [
+        187,
+        196,
+        "EDUCATION"
+      ],
+      [
+        270,
+        276,
+        "SKILLS"
+      ],
+      [
+        385,
+        400,
+        "WORK EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 45,
+    "text": "Summary: IABAC Certified Data Scientist with versatile experience over 1+ years in managing business, data science consulting and leading innovation projects, bringing business ideas to working real world solutions. Being a strong advocator of augmented era, where human capabilities are enhanced by machines, Fahed is passionate about bringing business concepts in area of machine learning, AI, robotics etc., to real life solutions.\nEducation: B. Tech in Computer Science & Engineering at Indo Global College of Engineering\nSkills: Python, R Studio, Machine Learning, Data Visualization, Tableau\nWork Experience: Data Science Consultant at Datamites ()\nWork Experience:  at Heretic Solutions Pvt Ltd ()",
+    "entities": [
+      [
+        435,
+        444,
+        "EDUCATION"
+      ],
+      [
+        526,
+        532,
+        "SKILLS"
+      ],
+      [
+        598,
+        613,
+        "WORK EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 46,
+    "text": "Education: B.E in Information Technology at Savitribai Phule Pune University\nEducation: Higher Secondary in  at Higher Secondary School\nSkills: Java, Spring, Hibernate, MongoDB, MySQL\nWork Experience: Java Developer at Vertical Software ()\nProject: Expense Ledger -\nProject: Trimurti Developer (Real Estate) -\nProject: Vimay Enterprise -",
+    "entities": [
+      [
+        0,
+        9,
+        "EDUCATION"
+      ],
+      [
+        136,
+        142,
+        "SKILLS"
+      ],
+      [
+        184,
+        199,
+        "WORK EXPERIENCE"
+      ],
+      [
+        240,
+        247,
+        "PROJECT EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 47,
+    "text": "Education: B.E in Computer Science and Engineering at RTMNU University - Jhulelal Institute of Technology\nEducation: HSC in  at Dayanand Arya Kanya Junior College\nEducation: SSC in  at\nSkills: C, C++, Java, J2EE, Spring, Hibernate, MySQL, PostgreSQL, Functional Testing, Manual Testing, Windows, Linux, MS Office\nWork Experience: Java Developer at Inouvelle Ventures Private Limited ()\nProject: Stock Management System - Developed a Stock Management System for the medicinal market to track medicines, surgical equipment, wholesalers, retailers, employees, and customers.\nProject: Printing Press Management System - Developed a web-based Printing Press Management System to enhance organizational growth, efficiency, and profitability.",
+    "entities": [
+      [
+        0,
+        9,
+        "EDUCATION"
+      ],
+      [
+        185,
+        191,
+        "SKILLS"
+      ],
+      [
+        313,
+        328,
+        "WORK EXPERIENCE"
+      ],
+      [
+        386,
+        393,
+        "PROJECT EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 48,
+    "text": "Summary: Experienced Database Administrator with expertise in Oracle RDBMS, RMAN, Data Guard, ASM, RAC, and Golden Gate. Skilled in database management, upgrades, migrations, and troubleshooting in production environments.\nEducation: BE in Computer Science and Engineering at SGBAU Amravati University\nSkills: Oracle RDBMS, RMAN, Netbackup, SCOM, RHEL, UNIX, Windows\nWork Experience: Database Administrator at BNY Mellon (7+ years)\nWork Experience: Database Administrator at Brose India ()\nWork Experience: Database Administrator at Brose India ()",
+    "entities": [
+      [
+        223,
+        232,
+        "EDUCATION"
+      ],
+      [
+        302,
+        308,
+        "SKILLS"
+      ],
+      [
+        367,
+        382,
+        "WORK EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 49,
+    "text": "Summary: DevOps Engineer with software proficiency in various languages and tools. Experienced in project roles such as Programmer and Mechanism designer.\nEducation: B.E. in Not Provided at Savitribai Phule Pune University\nSkills: C, SQL, PL/SQL, JAVA, JAVAEE, Javascript, HTML, CSS, jquery, mysql, Spring, Hibernate, Python\nWork Experience: DevOps Engineer at Parkar Consulting and Labs (Not Provided)\nProject: FPGA Implementation of AES Algorithm - AES is Advanced Encryption Standard which is used in cryptography by which we can protect our data. It encrypted by a Secret Key.\nProject: Sorting Robot - The TCS 230 sensor sorts the RGB color balls according to their color.\nProject: RFID Based Student Attendance System Using GSM - In this student show RFID card of his own and then message send via GSM to their parent that his ward is present.",
+    "entities": [
+      [
+        155,
+        164,
+        "EDUCATION"
+      ],
+      [
+        223,
+        229,
+        "SKILLS"
+      ],
+      [
+        325,
+        340,
+        "WORK EXPERIENCE"
+      ],
+      [
+        403,
+        410,
+        "PROJECT EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 50,
+    "text": "Summary: Java Developer with experience in web application development, backend to frontend module development, and database management. Strong problem-solving skills and ability to resolve project-related issues efficiently.\nEducation: B.E. in Computer Technology at Manoharbhai Patel Institute of Engineering and Technology\nEducation: HSC in Science at S.M.P. Science College\nSkills: Java, SQL, PL/SQL, C, C++, JSP, Ext JS, Oracle, MS-SQL, MS-Access, MS-Excel\nWork Experience: Java Developer at Xoriant Solutions Pvt Ltd (Ongoing)",
+    "entities": [
+      [
+        226,
+        235,
+        "EDUCATION"
+      ],
+      [
+        378,
+        384,
+        "SKILLS"
+      ],
+      [
+        462,
+        477,
+        "WORK EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 51,
+    "text": "Summary: Python Developer\nEducation: BE in Not Provided at Dr.BAMU\nSkills: Python, CSS, HTML, MySQL, Django, web services, Logger, Mongodb, json, Unix, Rest, Sqlit3\nWork Experience: Python Developer at Arsys Inovics pvt ltd (Not Provided)",
+    "entities": [
+      [
+        26,
+        35,
+        "EDUCATION"
+      ],
+      [
+        67,
+        73,
+        "SKILLS"
+      ],
+      [
+        165,
+        180,
+        "WORK EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 52,
+    "text": "Summary: Python Developer\nEducation: ME in Computer Engineering at Savitribai Phule Pune University\nEducation: B.E in Computer Engineering at Savitribai Phule Pune University\nSkills: Python, C++, MySQL, Not Provided, Not Provided, Not Provided\nWork Experience: Python Developer at Fresher (Not Provided)\nProject: Not Provided - Not Provided",
+    "entities": [
+      [
+        26,
+        35,
+        "EDUCATION"
+      ],
+      [
+        175,
+        181,
+        "SKILLS"
+      ],
+      [
+        244,
+        259,
+        "WORK EXPERIENCE"
+      ],
+      [
+        304,
+        311,
+        "PROJECT EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 53,
+    "text": "Summary: Final year Computer Science student at City, University of London with strong focus on machine learning and software engineering. Experienced in developing ML-powered applications and passionate about solving complex technical challenges.\nEducation: BSc in Computer Science at City, University of London\nSkills: Python, JavaScript, Java, PyTorch, FastAPI, React, PostgreSQL, MongoDB, AWS, Docker\nWork Experience: Machine Learning Engineer Intern at TechStart AI (3 months)\nProject: Resume Parser & Job Matcher - Final year project: AI-powered system for matching job seekers with relevant positions using NLP",
+    "entities": [
+      [
+        248,
+        257,
+        "EDUCATION"
+      ],
+      [
+        313,
+        319,
+        "SKILLS"
+      ],
+      [
+        405,
+        420,
+        "WORK EXPERIENCE"
+      ],
+      [
+        482,
+        489,
+        "PROJECT EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 54,
+    "text": "Summary: Aspiring Python Developer looking to utilize and expand knowledge in a professional organization.\nEducation: Diploma in Computer Science at AISSMS\nEducation: BE in Computer Science at Anantrao Pawar College of Engineering & Research Centre\nSkills: Python\nWork Experience: Python Developer at Cybage Software Pvt. Ltd ()",
+    "entities": [
+      [
+        107,
+        116,
+        "EDUCATION"
+      ],
+      [
+        249,
+        255,
+        "SKILLS"
+      ],
+      [
+        264,
+        279,
+        "WORK EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 55,
+    "text": "Summary: Network and Security Engineer with experience in implementing and troubleshooting network security solutions, planning and implementation of multi-vendor firewalls, and configuration of Cisco routers and switches.\nEducation: BE in Electronics at A.I.S.S.M.S College of Engineering, University of Pune\nSkills: Not Provided, Not Provided, Not Provided, Not Provided\nWork Experience: Network and Security Engineer at Capita (Not Provided)\nProject: Not Provided - Not Provided",
+    "entities": [
+      [
+        223,
+        232,
+        "EDUCATION"
+      ],
+      [
+        310,
+        316,
+        "SKILLS"
+      ],
+      [
+        373,
+        388,
+        "WORK EXPERIENCE"
+      ],
+      [
+        445,
+        452,
+        "PROJECT EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 56,
+    "text": "Summary: I want to work in organisation as a python developer to utilize my knowledge & To gain more knowledge with our organisation.\nEducation: Diploma in Computer Science at Aissms\nEducation: BE in Computer Science at Anantrao pawar college of Engineering & Research centre\nWork Experience: Python Developer at Cybage Software Pvt. Ltd ()",
+    "entities": [
+      [
+        134,
+        143,
+        "EDUCATION"
+      ],
+      [
+        276,
+        291,
+        "WORK EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 57,
+    "text": "Education: BE in Electronics & Communication at Takshshila Institute of Technology\nSkills: Java, JavaScript\nWork Experience: Jr. Java Developer at Wab It Software Pvt. Ltd. (6 months)",
+    "entities": [
+      [
+        0,
+        9,
+        "EDUCATION"
+      ],
+      [
+        83,
+        89,
+        "SKILLS"
+      ],
+      [
+        108,
+        123,
+        "WORK EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 58,
+    "text": "Summary: DevOps Engineer with software proficiency in various languages and tools. Experienced in project roles such as Programmer and Mechanism designer.\nEducation: B.E. in  at Savitribai Phule Pune University\nSkills: C, SQL, PL/SQL, JAVA, JAVAEE, Javascript, HTML, CSS, jquery, mysql, Spring, Hibernate, Python\nWork Experience: DevOps Engineer at Parkar Consulting and Labs ()\nProject: FPGA Implementation of AES Algorithm - AES is Advanced Encryption Standard which is used in cryptography by which we can protect our data. It encrypted by a Secret Key.\nProject: Sorting Robot - The TCS 230 sensor sorts the RGB color balls according to their color.\nProject: RFID Based Student Attendance System Using GSM - In this student show RFID card of his own and then message send via GSM to their parent that his ward is present.",
+    "entities": [
+      [
+        155,
+        164,
+        "EDUCATION"
+      ],
+      [
+        211,
+        217,
+        "SKILLS"
+      ],
+      [
+        313,
+        328,
+        "WORK EXPERIENCE"
+      ],
+      [
+        379,
+        386,
+        "PROJECT EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 59,
+    "text": "Summary: A Microsoft Certified Systems Engineer and Advocate with exceptional knowledge of administrative procedures, evidence rules and trials. Able to communicate clearly and concisely with people of diverse backgrounds and levels of authority. Focused and driven to always meet deadlines for pretrial procedures, trials and appellate briefings by effectively utilizing resources.\nEducation: Bachelor's in Laws at Maharaja Ganga Singh University\nEducation: Certification in Microsoft Certified Systems Engineer Networking at Microsoft\nEducation: Bachelor's in Science Bio-Informatics at Panjab University\nSkills: Windows, Word processing software\nWork Experience: Advocate at District Courts (72 months)",
+    "entities": [
+      [
+        383,
+        392,
+        "EDUCATION"
+      ],
+      [
+        607,
+        613,
+        "SKILLS"
+      ],
+      [
+        649,
+        664,
+        "WORK EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 60,
+    "text": "Summary: IABAC Certified Data Scientist with versatile experience over 1+ years in managing business, data science consulting and leading innovation projects, bringing business ideas to working real world solutions. Being a strong advocator of augmented era, where human capabilities are enhanced by machines, Fahed is passionate about bringing business concepts in area of machine learning, AI, robotics etc., to real life solutions.\nEducation: B. Tech in Computer Science & Engineering at Indo Global College of Engineering\nSkills: Python, R Studio, Tableau, Machine Learning\nWork Experience: Data Science Consultant at Datamites ()\nWork Experience:  at Heretic Solutions Pvt Ltd ()",
+    "entities": [
+      [
+        435,
+        444,
+        "EDUCATION"
+      ],
+      [
+        526,
+        532,
+        "SKILLS"
+      ],
+      [
+        578,
+        593,
+        "WORK EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 61,
+    "text": "Summary: DevOps Engineer with experience in various programming languages and software tools.\nEducation: B.E. in Unknown at Savitribai Phule Pune University\nSkills: C, SQL, PL/SQL, JAVA, JAVAEE, Javascript, HTML, CSS, jquery, mysql, Spring, Hibernate, Python, Unknown, Unknown, AWS\nWork Experience: DevOps Engineer at Parkar Consulting and Labs (Unknown)\nProject: FPGA Implementation - AES is Advanced Encryption Standard which is used in cryptography by which we can protect our data. It encrypted by a Secret Key.\nProject: Sorting Robot - The TCS 230 sensor sorts the RGB color balls according to their color.\nProject: RFID Based Student Attendance System Using GSM - In this student show RFID card of his own and then message send via GSM to their parent that his ward is present.",
+    "entities": [
+      [
+        94,
+        103,
+        "EDUCATION"
+      ],
+      [
+        157,
+        163,
+        "SKILLS"
+      ],
+      [
+        282,
+        297,
+        "WORK EXPERIENCE"
+      ],
+      [
+        355,
+        362,
+        "PROJECT EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 62,
+    "text": "Summary: I want to work in organisation as a python developer to utilize my knowledge & To gain more knowledge with our organisation.\nEducation: Diploma in Computer Science at Aissms\nEducation: BE in Computer Science at Anantrao pawar college of Engineering & Research centre\nSkills: Python\nWork Experience: Python Developer at Cybage Software Pvt. Ltd ()",
+    "entities": [
+      [
+        134,
+        143,
+        "EDUCATION"
+      ],
+      [
+        276,
+        282,
+        "SKILLS"
+      ],
+      [
+        291,
+        306,
+        "WORK EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 63,
+    "text": "Education: Master of Engineering in Information Technology at M.I.T\nEducation: Bachelor of Engineering in Information Technology at Amravati University\nEducation: Higher Secondary in  at P. N. Junior College\nEducation: Secondary School Certificate in  at K.D. High-School\nSkills: C, C++, Java, Android, MS Access, SQL, Oracle\nWork Experience: Java Developer at Maxgen Technologies ()\nWork Experience:  at MIS Generation of Tata Sky and Tata Power ()\nProject: Location Detector of Computing and Mobile Devices - Android project for detecting location of computing and mobile devices.\nProject: Data Deduplication - Project to reduce redundant data from the system and free up memory by storing unique copies of data and using pointers for access.",
+    "entities": [
+      [
+        0,
+        9,
+        "EDUCATION"
+      ],
+      [
+        272,
+        278,
+        "SKILLS"
+      ],
+      [
+        326,
+        341,
+        "WORK EXPERIENCE"
+      ],
+      [
+        450,
+        457,
+        "PROJECT EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 64,
+    "text": "Education: B.E. in Information Technology at Vidyalankar Institute of Technology\nEducation: Diploma in  at Thakur Polytechnic\nEducation: High School in  at St. John's Universal School\nSkills: Java, J2EE, Swift, HTML, Shell Script, MySQL\nWork Experience: Java Developer at Tech Mahindra (21 months)\nWork Experience: Java Developer at Tech Mahindra (17 months)",
+    "entities": [
+      [
+        0,
+        9,
+        "EDUCATION"
+      ],
+      [
+        184,
+        190,
+        "SKILLS"
+      ],
+      [
+        237,
+        252,
+        "WORK EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 65,
+    "text": "Summary: Experienced Python RESTful API developer with expertise in MongoDB, MySQL, and AS/400. Strong background in software development life cycle, debugging, and testing. Skilled in agile methodologies and cloud deployment using Pivotal Cloud Foundry.\nEducation: MSc in Computer Science at Pune University\nEducation: BSc in Computer Science at Pune University\nSkills: Python, Java, RPG/400, Flask, Django, MongoDB, MySQL, PostgreSQL, Pivotal Cloud Foundry\nWork Experience: Python RESTful API Developer at KPIT Technologies (13 years)\nWork Experience: M3 Java Developer & Stream Serve Developer at KPIT Technologies (1 year)\nWork Experience: Senior AS/400 & Stream Serve Developer at KPIT Technologies (4 years)",
+    "entities": [
+      [
+        255,
+        264,
+        "EDUCATION"
+      ],
+      [
+        363,
+        369,
+        "SKILLS"
+      ],
+      [
+        459,
+        474,
+        "WORK EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 66,
+    "text": "Summary: Experienced Java Developer with expertise in JSP, Servlets, Spring, Hibernate, and front-end technologies like HTML, CSS, JavaScript, and jQuery. Proficient in MySQL and development tools such as Eclipse and NetBeans.\nEducation: High School in Science at VidyaBharati College\nEducation: Secondary School in General Education at Holy Cross English School\nSkills: Java, Spring, Hibernate, MySQL\nWork Experience: Java Developer at Kunal IT Services Pvt Ltd (2 years)\nWork Experience: Java Developer at Winsol Solution Pvt Ltd (Ongoing)",
+    "entities": [
+      [
+        227,
+        236,
+        "EDUCATION"
+      ],
+      [
+        363,
+        369,
+        "SKILLS"
+      ],
+      [
+        402,
+        417,
+        "WORK EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 67,
+    "text": "Summary: Devops Engineer with strong skills in Ant, Maven, GIT, Bitbucket, Jenkins, Linux, Ansible, Shell Scripting, Requirement Gathering, Continuous Integration and Continuous Deployment, Software Development Life Cycle, Software Testing Life Cycle, Documentation & Reporting, Test Reports.\nEducation: Masters in science information technology at JNTU\nSkills: C, Core Java, Unknown, Unknown, Unknown\nWork Experience: Devops Engineer at Nendrasys Technologies Pvt Ltd (Unknown)\nProject: Sloan Global Holdings (Sloan) (E-commerce) - The Scope of the project is to design & develop e-commerce product features for sloan project. It's a basically B2B project where customer can buy all fixers, sinks related product. It focuses on the company, the stakeholders and applications, which allow for online sales, distribution and marketing of product.",
+    "entities": [
+      [
+        293,
+        302,
+        "EDUCATION"
+      ],
+      [
+        354,
+        360,
+        "SKILLS"
+      ],
+      [
+        402,
+        417,
+        "WORK EXPERIENCE"
+      ],
+      [
+        479,
+        486,
+        "PROJECT EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 68,
+    "text": "Summary: Python Developer\nEducation: ME in Computer Engineering at Savitribai Phule Pune University\nEducation: B.E in Computer Engineering at Savitribai Phule Pune University\nSkills: Python, C++, C, Tensorflow, Numpy, MySQL, Not Provided\nWork Experience: Python Developer at Fresher (Not Provided)\nProject: Not Provided - Not Provided",
+    "entities": [
+      [
+        26,
+        35,
+        "EDUCATION"
+      ],
+      [
+        175,
+        181,
+        "SKILLS"
+      ],
+      [
+        238,
+        253,
+        "WORK EXPERIENCE"
+      ],
+      [
+        298,
+        305,
+        "PROJECT EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 69,
+    "text": "Summary: Cloud Operations Architect (DevOps) with experience in various technologies and platforms.\nEducation: Post Graduate Diploma in Information Technology at Symbiosis Institute\nEducation: Bachelor of Engineering in Electronics and Telecommunications at Pune University\nSkills: Python, Shell Scripting, Not Provided, Not Provided, AWS, Azure\nWork Experience: Cloud Operations Architect (DevOps) at DevOps (Not Provided)\nWork Experience: Administration, automation & Monitoring at Synechron Technologies Limited (Not Provided)\nProject: Not Provided - Not Provided",
+    "entities": [
+      [
+        100,
+        109,
+        "EDUCATION"
+      ],
+      [
+        274,
+        280,
+        "SKILLS"
+      ],
+      [
+        346,
+        361,
+        "WORK EXPERIENCE"
+      ],
+      [
+        530,
+        537,
+        "PROJECT EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 70,
+    "text": "Education: Bachelor of Engineering in Computer at Savitribai Phule Pune University\nEducation: HSC in  at Maharashtra State Board\nEducation: SSC in  at Maharashtra State Board\nSkills: Python, Django, MySQL, REST API, HTML5\nWork Experience: Python Developer at Atos Syntel (15 months)",
+    "entities": [
+      [
+        0,
+        9,
+        "EDUCATION"
+      ],
+      [
+        175,
+        181,
+        "SKILLS"
+      ],
+      [
+        222,
+        237,
+        "WORK EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 71,
+    "text": "Summary: Senior Business Analyst with extensive experience in RPA, process automation, and business analysis. Skilled in requirement gathering, documentation, testing, and stakeholder communication.\nEducation: Bachelor in Computer Engineering at Thadomal Shahani Engineering College\nEducation: Diploma in Computer Engineering at Institute of Technology\nSkills: SQL\nWork Experience: Senior Business Analyst - RPA at Hexaware Technologies (Unknown)\nWork Experience: Business Analyst at BBH - Brown Brothers Harriman & Co (Unknown)\nWork Experience: Business Analyst at First Advantage (FADV) (Unknown)\nProject: M.B.M.S - Inventory Management System - An inventory management application for tracking warehouse stock, sales, and customer complaints. Generates automated invoices and reports.",
+    "entities": [
+      [
+        199,
+        208,
+        "EDUCATION"
+      ],
+      [
+        353,
+        359,
+        "SKILLS"
+      ],
+      [
+        365,
+        380,
+        "WORK EXPERIENCE"
+      ],
+      [
+        599,
+        606,
+        "PROJECT EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 72,
+    "text": "Summary: Final year Computer Science student at City, University of London with strong focus on machine learning and software engineering. Experienced in developing ML-powered applications and passionate about solving complex technical challenges.\nEducation: BSc in Computer Science at City, University of London\nSkills: Python, JavaScript, Java, PyTorch, FastAPI, React, PostgreSQL, MongoDB, AWS, Docker\nWork Experience: Machine Learning Engineer Intern at TechStart AI (3 months)\nProject: Resume Parser & Job Matcher - Final year project: AI-powered system for matching job seekers with relevant positions using NLP",
+    "entities": [
+      [
+        248,
+        257,
+        "EDUCATION"
+      ],
+      [
+        313,
+        319,
+        "SKILLS"
+      ],
+      [
+        405,
+        420,
+        "WORK EXPERIENCE"
+      ],
+      [
+        482,
+        489,
+        "PROJECT EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 73,
+    "text": "Summary: Java Developer with experience in various technologies such as Spring MVC, Hibernate, JDBC, Java, J2EE, AzureWeb SunTechnologies Services, JSP, Struts, Servlet, RestApi, JavaScript, AJAX, HTML, JSON, PHP, MsSQL, MySQL, Oracle, ApacheTomcatServer, OnesignalWebPushNotifications, AzurewebServices, IONIC, HTML, JSON, WindowsServer2012R2, WinXP/7/8.1/10, Linux, Mac OS.\nEducation: BE in Computer Engineering at Late G.N. Sapkal COE\nEducation: Diploma in Computer technology at K K Wagh Polytechnic\nSkills: Java, JavaScript, PHP, Spring MVC, Hibernate, JDBC, MsSQL, MySQL, Oracle, AzureWeb SunTechnologies Services, AzurewebServices\nWork Experience: Java Developer at Replete business solutions pvt ltd (Not Provided)\nProject: Not Provided - Not Provided",
+    "entities": [
+      [
+        376,
+        385,
+        "EDUCATION"
+      ],
+      [
+        504,
+        510,
+        "SKILLS"
+      ],
+      [
+        638,
+        653,
+        "WORK EXPERIENCE"
+      ],
+      [
+        723,
+        730,
+        "PROJECT EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 74,
+    "text": "Education: B.E in Information Technology at Savitribai Phule Pune University\nEducation: Higher Secondary School in  at\nSkills: Java, Spring, Hibernate, MongoDB, MySQL\nWork Experience: Java Developer at Vertical Software ()\nProject: Expense Ledger -\nProject: Trimurti Developer (Real Estate) -\nProject: Vimay Enterprise -",
+    "entities": [
+      [
+        0,
+        9,
+        "EDUCATION"
+      ],
+      [
+        119,
+        125,
+        "SKILLS"
+      ],
+      [
+        167,
+        182,
+        "WORK EXPERIENCE"
+      ],
+      [
+        223,
+        230,
+        "PROJECT EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 75,
+    "text": "Education: B.E in UIT-RGPV at\nSkills: Python, Statsmodels, AWS, Machine learning, Sklearn, Scipy, Keras\nWork Experience: Data Scientist at Matelabs ()",
+    "entities": [
+      [
+        0,
+        9,
+        "EDUCATION"
+      ],
+      [
+        30,
+        36,
+        "SKILLS"
+      ],
+      [
+        104,
+        119,
+        "WORK EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 76,
+    "text": "Summary: Hardworking Java Developer enthusiastic about working with multicultural teams. Having 2 years of experience in working with a Payment Gateway Solutions provider with Core Java.\nEducation: Bachelor of Engineering in Computer at Savitribai Phule Pune University\nSkills: Java, Advanced Java, Oracle, MySQL, Derby, Windows, Linux (CentOS 6.6), Eclipse (Oxygen), SonarQube, Putty\nWork Experience: Java Developer at Aurus Tech Pvt. Ltd (2 years)",
+    "entities": [
+      [
+        187,
+        196,
+        "EDUCATION"
+      ],
+      [
+        270,
+        276,
+        "SKILLS"
+      ],
+      [
+        385,
+        400,
+        "WORK EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 77,
+    "text": "Education: BE in Computer Engineering at Late G.N. Sapkal College of Engineering\nEducation: Diploma in Computer Technology at K K Wagh Polytechnic\nSkills: Java, J2EE, Spring MVC, Ionic 3, AngularJS, MySQL, MsSQL, AJAX, HTML\nWork Experience: Java Developer at Replete Business Solutions Pvt Ltd ()",
+    "entities": [
+      [
+        0,
+        9,
+        "EDUCATION"
+      ],
+      [
+        147,
+        153,
+        "SKILLS"
+      ],
+      [
+        224,
+        239,
+        "WORK EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 78,
+    "text": "Summary: DevOps Engineer with software proficiency in various languages and tools.\nEducation: B.E. in Unknown at Savitribai Phule Pune University\nSkills: C, SQL, PL/SQL, JAVA, JAVAEE, Javascript, HTML, CSS, jquery, mysql, Spring, Hibernate, Python, Unknown, Unknown, AWS\nWork Experience: DevOps Engineer at Parkar Consulting and Labs (Unknown)\nProject: FPGA Implementation - B.E. Project: AES Algorithm is Advanced Encryption Standard which is used in cryptography by which we can protect our data. It encrypted by a Secret Key.\nProject: Sorting Robot - T.E. project: The TCS 230 sensor sorts the RGB color balls according to their color.\nProject: RFID Based Student Attendance System Using GSM - Diploma Project: In this student show RFID card of his own and then message send via GSM to their parent that his ward is present.",
+    "entities": [
+      [
+        83,
+        92,
+        "EDUCATION"
+      ],
+      [
+        146,
+        152,
+        "SKILLS"
+      ],
+      [
+        271,
+        286,
+        "WORK EXPERIENCE"
+      ],
+      [
+        344,
+        351,
+        "PROJECT EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 79,
+    "text": "Summary: Full Stack Java Developer with experience in Java, Spring Boot, JSP, and front-end technologies. Developed multiple projects using Java, MySQL, and web technologies.\nEducation: MCA in Computer Applications at Pune University\nEducation: BCA in Computer Applications at Amravati University\nSkills: Java, Spring Boot, JSP, Servlet, MySQL\nWork Experience: Java Developer at Salcluster Technologies (Unknown)\nWork Experience: Intern at OmegaSoft Technologies Pvt. Ltd. (5 months)\nProject: GST And Sales Billing Software - A web application for GST billing, invoice generation, and sales management using Java (Servlet and JSP), JavaScript, JQuery, Ajax, and MySQL.\nProject: Dinman News Website - A website for displaying online video and text news using Java (Servlet and JSP), JavaScript, JQuery, Ajax, and MySQL.\nProject: Agri Management Website - A website for purchasing and selling vegetables across India using Java (Servlet and JSP), JavaScript, JQuery, Ajax, and MySQL.",
+    "entities": [
+      [
+        175,
+        184,
+        "EDUCATION"
+      ],
+      [
+        297,
+        303,
+        "SKILLS"
+      ],
+      [
+        344,
+        359,
+        "WORK EXPERIENCE"
+      ],
+      [
+        484,
+        491,
+        "PROJECT EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 80,
+    "text": "Summary: SAP Technical Architect with 13+ years of experience in SAP, ranging from development to subject matter expertise. Strong background in implementation, upgrade, application development, and maintenance. Certified in SAP ABAP, ITIL 2011 Foundation, and PRINCE2 Practitioner. Extensive experience in SAP ABAP FRICEW components and various SAP modules including MM, FI, CO, SD, PS, PP, CS, PM, QM, and HR. Expertise in S/4HANA, IS-Auto, IS-Retail, SCM 7.0, SOLMAN, SAP GTS, SAP PI 7.3, SAP BI 7.0/7.3, and more. Proven ability to lead technical teams, interact with business analysts, and manage full-lifecycle SAP projects.\nSkills: SAP ABAP, SAP Netweaver Gateway, oData, Fiori\nWork Experience: SAP Technical Architect at  (13+ years)",
+    "entities": [
+      [
+        631,
+        637,
+        "SKILLS"
+      ],
+      [
+        685,
+        700,
+        "WORK EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 81,
+    "text": "Summary: Final year Computer Science student at City, University of London with strong focus on machine learning and software engineering. Experienced in developing ML-powered applications and passionate about solving complex technical challenges.\nEducation: BSc in Computer Science at City, University of London\nSkills: Python, JavaScript, Java, PyTorch, FastAPI, React, PostgreSQL, MongoDB, AWS, Docker\nWork Experience: Machine Learning Engineer Intern at TechStart AI (3 months)\nProject: Resume Parser & Job Matcher - Final year project: AI-powered system for matching job seekers with relevant positions using NLP",
+    "entities": [
+      [
+        248,
+        257,
+        "EDUCATION"
+      ],
+      [
+        313,
+        319,
+        "SKILLS"
+      ],
+      [
+        405,
+        420,
+        "WORK EXPERIENCE"
+      ],
+      [
+        482,
+        489,
+        "PROJECT EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 82,
+    "text": "Education: MCA in Computer Science at SGBAU, Amravati\nSkills: Java, JavaScript, Spring, Hibernate, Struts\nWork Experience: Java Web Developer at Salcluster Technologies (6 months)",
+    "entities": [
+      [
+        0,
+        9,
+        "EDUCATION"
+      ],
+      [
+        54,
+        60,
+        "SKILLS"
+      ],
+      [
+        106,
+        121,
+        "WORK EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 83,
+    "text": "Education: B.E in UIT-RGPV at\nSkills: Python, Statsmodels, AWS, Machine learning, Sklearn, Scipy, Keras\nWork Experience: Data Scientist at Matelabs ()",
+    "entities": [
+      [
+        0,
+        9,
+        "EDUCATION"
+      ],
+      [
+        30,
+        36,
+        "SKILLS"
+      ],
+      [
+        104,
+        119,
+        "WORK EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 84,
+    "text": "Education: BE in Electronics & Communication at Takshshila Institute of Technology\nSkills: Java, JavaScript\nWork Experience: Jr. Java Developer at Wab It Software Pvt. Ltd. (6 months)",
+    "entities": [
+      [
+        0,
+        9,
+        "EDUCATION"
+      ],
+      [
+        83,
+        89,
+        "SKILLS"
+      ],
+      [
+        108,
+        123,
+        "WORK EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 85,
+    "text": "Education: BE in Information Technology at PJLCE\nSkills: C++, C, Java, DS, Hibernate, JDBC, Java J2EE\nWork Experience: Java Developer at Almighty Tech Pvt Ltd ()",
+    "entities": [
+      [
+        0,
+        9,
+        "EDUCATION"
+      ],
+      [
+        49,
+        55,
+        "SKILLS"
+      ],
+      [
+        102,
+        117,
+        "WORK EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 86,
+    "text": "Summary: Network Security Engineer with experience in troubleshooting firewall incidents, installing security solutions, and analyzing security requirements.\nEducation: B.E in Technology at Mumbai University\nWork Experience: Network Security Engineer at Stormfur Technologies LLP (5+ years)\nProject: Temperature Controlled Cooling Fan - This project senses the temperature level and turns ON the FAN when temperature is above set limit to control the temperature of devices.\nProject: Automatic Plant Watering System - This project senses the moisture level and turns ON the water pump when moisture is low.",
+    "entities": [
+      [
+        158,
+        167,
+        "EDUCATION"
+      ],
+      [
+        208,
+        223,
+        "WORK EXPERIENCE"
+      ],
+      [
+        291,
+        298,
+        "PROJECT EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 87,
+    "text": "Summary: Experienced Java Developer with expertise in JSP, Servlets, Spring, Hibernate, and front-end technologies like HTML, CSS, JavaScript, and jQuery. Proficient in MySQL and development tools such as Eclipse and NetBeans.\nEducation: High School in Science at VidyaBharati College\nEducation: Secondary School in General Education at Holy Cross English School\nSkills: Java, Spring, Hibernate, MySQL\nWork Experience: Java Developer at Kunal IT Services Pvt Ltd (2 years)\nWork Experience: Java Developer at Winsol Solution Pvt Ltd (Ongoing)",
+    "entities": [
+      [
+        227,
+        236,
+        "EDUCATION"
+      ],
+      [
+        363,
+        369,
+        "SKILLS"
+      ],
+      [
+        402,
+        417,
+        "WORK EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 88,
+    "text": "Summary: Devops Engineer with experience in various DevOps methodologies and tools.\nEducation: Masters in science information technology at JNTU\nSkills: C, Core Java, Unknown, Unknown, Unknown\nWork Experience: Devops Engineer at Nendrasys Technologies Pvt Ltd (Unknown)\nProject: Sloan Global Holdings (Sloan) (E-commerce) - The Scope of the project is to design & develop e-commerce product features for sloan project. It's a basically B2B project where customer can buy all fixers, sinks related product. It focuses on the company, the stakeholders and applications, which allow for online sales, distribution and marketing of product.",
+    "entities": [
+      [
+        84,
+        93,
+        "EDUCATION"
+      ],
+      [
+        145,
+        151,
+        "SKILLS"
+      ],
+      [
+        193,
+        208,
+        "WORK EXPERIENCE"
+      ],
+      [
+        270,
+        277,
+        "PROJECT EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 89,
+    "text": "Summary: Java Developer with experience in Hibernate, JSP, and Servlets. Passionate about software development and programming.\nEducation: ME in Computer Engineering at Savitribai Phule Pune University\nEducation: SSC in General Education at Maharashtra Secondary Board\nSkills: Java, C, C++, Hibernate, JSP, Servlets, SQL, MySQL, Oracle 9i, Oracle 10g\nWork Experience: Java Developer at Maxgen Technologies Pvt. Ltd. (6 months)\nWork Experience: Trainer at Prakshal IT Academy (Unknown)\nProject: Banking Software - Used GSM technology for transaction messages for security purposes.\nProject: Single Sign-On - Created a 'Single Sign-On' mechanism for network security.\nProject: Text-Based Graphical Password - Developed a secure password system using Random Printing Algorithm to prevent shoulder surfing attacks.\nProject: Agriculture Management System - Created a web application for agriculture system and farming.",
+    "entities": [
+      [
+        128,
+        137,
+        "EDUCATION"
+      ],
+      [
+        269,
+        275,
+        "SKILLS"
+      ],
+      [
+        351,
+        366,
+        "WORK EXPERIENCE"
+      ],
+      [
+        485,
+        492,
+        "PROJECT EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 90,
+    "text": "Summary: Python Developer with experience in Django, RESTful APIs, and database management. Skilled in both front-end and back-end development, with a strong understanding of Agile methodologies.\nEducation: BE in Engineering at Dr. BAMU, Aurangabad\nSkills: Python, Django, Django REST Framework, MySQL, Oracle, SQLite, MongoDB, HTML, CSS, RESTful Web Services, GitHub, JIRA, Windows, Unix\nWork Experience: Python Developer at Arsys Inovics Pvt Ltd (31 months)\nProject: F-MAS (Frequency Monitoring and Analysis Systems) - A project for managing network inventory, network communication, fault management, and network traffic analysis. Used by telecommunications service providers to support various telecommunication services.",
+    "entities": [
+      [
+        196,
+        205,
+        "EDUCATION"
+      ],
+      [
+        249,
+        255,
+        "SKILLS"
+      ],
+      [
+        389,
+        404,
+        "WORK EXPERIENCE"
+      ],
+      [
+        460,
+        467,
+        "PROJECT EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 91,
+    "text": "Summary: Devops Engineer with experience in various IT skills and Dev-ops methodologies.\nEducation: Masters in science information technology at JNTU\nSkills: C, Core Java, Unknown, Unknown, Unknown\nWork Experience: Devops Engineer at Nendrasys Technologies Pvt Ltd (Unknown)\nProject: Unknown - Unknown",
+    "entities": [
+      [
+        89,
+        98,
+        "EDUCATION"
+      ],
+      [
+        150,
+        156,
+        "SKILLS"
+      ],
+      [
+        198,
+        213,
+        "WORK EXPERIENCE"
+      ],
+      [
+        275,
+        282,
+        "PROJECT EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 92,
+    "text": "Summary: I want to work in organisation as a python developer to utilize my knowledge & To gain more knowledge with our organisation.\nEducation: Diploma in Computer Science at Aissms\nEducation: BE in Computer Science at Anantrao pawar college of Engineering & Research centre\nSkills: Python\nWork Experience: Python Developer at Cybage Software Pvt. Ltd ()",
+    "entities": [
+      [
+        134,
+        143,
+        "EDUCATION"
+      ],
+      [
+        276,
+        282,
+        "SKILLS"
+      ],
+      [
+        291,
+        306,
+        "WORK EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 93,
+    "text": "Summary: DevOps Engineer with software proficiency in various languages and tools.\nEducation: B.E. in Not Provided at Savitribai Phule Pune University\nSkills: C, SQL, JAVA, Javascript, Python, Spring, Hibernate, mysql, AWS\nWork Experience: DevOps Engineer at Parkar Consulting and Labs (Not Provided)\nProject: FPGA Implementation - AES is Advanced Encryption Standard which is used in cryptography by which we can protect our data. It encrypted by a Secret Key.\nProject: Sorting Robot - The TCS 230 sensor sorts the RGB color balls according to their color.\nProject: RFID Based Student Attendance System Using GSM - In this student show RFID card of his own and then message send via GSM to their parent that his ward is present.",
+    "entities": [
+      [
+        83,
+        92,
+        "EDUCATION"
+      ],
+      [
+        151,
+        157,
+        "SKILLS"
+      ],
+      [
+        223,
+        238,
+        "WORK EXPERIENCE"
+      ],
+      [
+        301,
+        308,
+        "PROJECT EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 94,
+    "text": "Education: B.E in Information Technology at Savitribai Phule Pune University\nEducation: Higher Secondary in  at Higher Secondary School\nSkills: Java, Spring, Hibernate, MongoDB, MySQL\nWork Experience: Java Developer at Vertical Software ()\nProject: Expense Ledger -\nProject: Trimurti Developer (Real Estate) -\nProject: Vimay Enterprise -",
+    "entities": [
+      [
+        0,
+        9,
+        "EDUCATION"
+      ],
+      [
+        136,
+        142,
+        "SKILLS"
+      ],
+      [
+        184,
+        199,
+        "WORK EXPERIENCE"
+      ],
+      [
+        240,
+        247,
+        "PROJECT EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 95,
+    "text": "Summary: Python Developer/analyst\nEducation: B.E. in Electronics at University of Mumbai\nSkills: Python, C, C++, Java, HTML, Django, MySQL, Unknown\nWork Experience: Python Developer/analyst at Ace The Power of 5 (12 months)\nWork Experience: Python Developer/analyst at Kranti Dynamics (12 months)\nProject: Fruit sorting and disease detection - Unknown",
+    "entities": [
+      [
+        34,
+        43,
+        "EDUCATION"
+      ],
+      [
+        89,
+        95,
+        "SKILLS"
+      ],
+      [
+        148,
+        163,
+        "WORK EXPERIENCE"
+      ],
+      [
+        297,
+        304,
+        "PROJECT EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 96,
+    "text": "Education: Master of Engineering in Information Technology at M.I.T\nEducation: Bachelor of Engineering in Information Technology at Amravati University\nEducation: Higher Secondary in  at P. N. Junior College\nEducation: Secondary School Certificate (SSC) in  at K.D. High-School\nSkills: C, C++, Java, Android, MS Access, SQL, Oracle\nWork Experience: Java Developer at Maxgen Technologies ()\nWork Experience:  at MIS Generation of Tata Sky and Tata Power ()\nProject: Location Detector of Computing and Mobile Devices - Android project for detecting the location of computing and mobile devices.\nProject: Data Deduplication - Project aimed at reducing redundant data from the system and freeing up memory by storing unique copies of data and using pointers for access.",
+    "entities": [
+      [
+        0,
+        9,
+        "EDUCATION"
+      ],
+      [
+        278,
+        284,
+        "SKILLS"
+      ],
+      [
+        332,
+        347,
+        "WORK EXPERIENCE"
+      ],
+      [
+        456,
+        463,
+        "PROJECT EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 97,
+    "text": "Summary: Java developer with experience in Java/J2EE, MySQL, and Android development. Skilled in working with databases, web servers, and middleware applications.\nEducation: B.E. in Information Technology at Vidyalankar Institute of Technology\nEducation: Diploma in Unknown at Thakur Polytechnic\nEducation: High School in Unknown at St. John's Universal School\nSkills: Java, J2EE, Swift, HTML, Shell Script, MySQL, SVN, Jenkins, Hudson, Weblogic12c, Android Studio, Eclipse, Oracle, Xcode, Windows 10, Mac (High Sierra)\nWork Experience: Java Developer at Tech Mahindra (21 months)\nWork Experience: Java Developer at Tech Mahindra (Unknown)",
+    "entities": [
+      [
+        163,
+        172,
+        "EDUCATION"
+      ],
+      [
+        361,
+        367,
+        "SKILLS"
+      ],
+      [
+        520,
+        535,
+        "WORK EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 98,
+    "text": "Summary: Cloud Operations Architect (DevOps) with experience in various cloud technologies and scripting languages.\nEducation: Post Graduate Diploma in Information Technology at Symbiosis Institute\nEducation: Bachelor of Engineering in Electronics and Telecommunications at Pune University\nSkills: Python, Shell Scripting, Not Provided, Not Provided, AWS, Azure\nWork Experience: Cloud Operations Architect (DevOps) at DevOps (Not Provided)\nWork Experience: Administration, automation & Monitoring at Synechron Technologies Limited (Not Provided)\nProject: Not Provided - Not Provided",
+    "entities": [
+      [
+        116,
+        125,
+        "EDUCATION"
+      ],
+      [
+        290,
+        296,
+        "SKILLS"
+      ],
+      [
+        362,
+        377,
+        "WORK EXPERIENCE"
+      ],
+      [
+        546,
+        553,
+        "PROJECT EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 99,
+    "text": "Summary: Python Developer\nEducation: ME in Computer Engineering at Savitribai Phule Pune University\nEducation: B.E in Computer Engineering at Savitribai Phule Pune University\nSkills: Python, C++, Not Provided, MySQL, Not Provided\nWork Experience: Python Developer at Fresher (Not Provided)\nProject: Not Provided - Not Provided",
+    "entities": [
+      [
+        26,
+        35,
+        "EDUCATION"
+      ],
+      [
+        175,
+        181,
+        "SKILLS"
+      ],
+      [
+        230,
+        245,
+        "WORK EXPERIENCE"
+      ],
+      [
+        290,
+        297,
+        "PROJECT EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 100,
+    "text": "Summary: Cloud Operations Architect (DevOps) with experience in various technologies and platforms.\nEducation: Post Graduate Diploma in Information Technology at Symbiosis Institute\nEducation: Bachelor of Engineering in Electronics and Telecommunications at Pune University\nSkills: Python, Shell Scripting, Not Provided, Not Provided, AWS, Azure\nWork Experience: Cloud Operations Architect (DevOps) at DevOps (Not Provided)\nProject: Not Provided - Not Provided",
+    "entities": [
+      [
+        100,
+        109,
+        "EDUCATION"
+      ],
+      [
+        274,
+        280,
+        "SKILLS"
+      ],
+      [
+        346,
+        361,
+        "WORK EXPERIENCE"
+      ],
+      [
+        424,
+        431,
+        "PROJECT EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 101,
+    "text": "Education: B.E in UIT-RGPV at\nSkills: Python, Statsmodels, AWS, Machine learning, Sklearn, Scipy, Keras\nWork Experience: Data Scientist at Matelabs ()",
+    "entities": [
+      [
+        0,
+        9,
+        "EDUCATION"
+      ],
+      [
+        30,
+        36,
+        "SKILLS"
+      ],
+      [
+        104,
+        119,
+        "WORK EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 102,
+    "text": "Summary: Hardworking Java Developer enthusiastic about working with multicultural teams. Having 2 years of experience in working with a Payment Gateway Solutions provider with Core Java.\nEducation: Bachelor in Engineering at Savitribai Phule Pune University\nSkills: Java, Advanced Java, Oracle, Derby, MySQL, Windows, Linux (CentOS 6.6), Eclipse (Oxygen), SonarQube, Putty\nWork Experience: Java Developer at Aurus Tech Pvt. Ltd (2 years)",
+    "entities": [
+      [
+        187,
+        196,
+        "EDUCATION"
+      ],
+      [
+        258,
+        264,
+        "SKILLS"
+      ],
+      [
+        373,
+        388,
+        "WORK EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 103,
+    "text": "Summary: Devops Engineer with strong skills in Ant, Maven, GIT, Bitbucket, Jenkins, Linux, Ansible, Shell Scripting, Requirement Gathering, Continuous Integration and Continuous Deployment, Software Development Life Cycle, Software Testing Life Cycle, Documentation & Reporting, Test Reports.\nEducation: Masters in science information technology at JNTU\nSkills: C, Core Java, Unknown, Unknown, Unknown\nWork Experience: Devops Engineer at Nendrasys Technologies Pvt Ltd (Unknown)\nProject: Unknown - Unknown",
+    "entities": [
+      [
+        293,
+        302,
+        "EDUCATION"
+      ],
+      [
+        354,
+        360,
+        "SKILLS"
+      ],
+      [
+        402,
+        417,
+        "WORK EXPERIENCE"
+      ],
+      [
+        479,
+        486,
+        "PROJECT EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 104,
+    "text": "Summary: Python Developer\nEducation: ME in Computer Engineering at Savitribai Phule Pune University\nEducation: B.E in Computer Engineering at Savitribai Phule Pune University\nSkills: Python, C++, Not Provided, MySQL, Not Provided\nWork Experience: Python Developer at Fresher (Not Provided)\nProject: Not Provided - Not Provided",
+    "entities": [
+      [
+        26,
+        35,
+        "EDUCATION"
+      ],
+      [
+        175,
+        181,
+        "SKILLS"
+      ],
+      [
+        230,
+        245,
+        "WORK EXPERIENCE"
+      ],
+      [
+        290,
+        297,
+        "PROJECT EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 105,
+    "text": "Summary: Java Developer with experience in Hibernate, JSP, and Servlets. Passionate about software development and programming.\nEducation: ME in Computers at Savitribai Phule Pune University\nEducation: SSC in General Education at Maharashtra Secondary Board\nSkills: Java, C, C++, Hibernate, Spring, SQL, MySQL, Oracle 9i, Oracle 10g\nWork Experience: Java Developer at Maxgen Technologies Pvt. Ltd. (Unknown)\nWork Experience: Trainer at Prakshal IT Academy (Unknown)\nProject: Banking Software - Used GSM technology for transaction messages for security purposes.\nProject: Single Sign-On - Created a 'Single Sign-On' mechanism for network security.\nProject: Text-Based Graphical Password - Developed a secure password system using Random Printing Algorithm to prevent shoulder surfing attacks.\nProject: Agriculture Management System - Created a web application for agriculture system and farming.",
+    "entities": [
+      [
+        128,
+        137,
+        "EDUCATION"
+      ],
+      [
+        258,
+        264,
+        "SKILLS"
+      ],
+      [
+        333,
+        348,
+        "WORK EXPERIENCE"
+      ],
+      [
+        466,
+        473,
+        "PROJECT EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 106,
+    "text": "Summary: Full Stack Java Developer with experience in Java, Spring Boot, JSP, and front-end technologies. Skilled in building web applications and working with databases.\nEducation: MCA in Computer Applications at Pune University\nEducation: BCA in Computer Applications at Amravati University\nSkills: Java, Spring Boot, Servlet, JSP, MySQL\nWork Experience: Java Developer at Salcluster Technologies (Unknown)\nWork Experience: Java Developer at OmegaSoft Technologies Pvt. Ltd. (5 months)\nProject: GST And Sales Billing Software - A web application for GST billing, invoice generation, and sales management. Built using Java (Servlet and JSP), JavaScript, JQuery, Ajax, and MySQL.\nProject: Dinman News Website - A website for displaying online video and text news. Built using Java (Servlet and JSP), JavaScript, JQuery, Ajax, and MySQL.\nProject: Agri Management Website - A website for purchasing and selling vegetables across India. Built using Java (Servlet and JSP), JavaScript, JQuery, Ajax, and MySQL.",
+    "entities": [
+      [
+        171,
+        180,
+        "EDUCATION"
+      ],
+      [
+        293,
+        299,
+        "SKILLS"
+      ],
+      [
+        340,
+        355,
+        "WORK EXPERIENCE"
+      ],
+      [
+        488,
+        495,
+        "PROJECT EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 107,
+    "text": "Education: Bachelor of Engineering in Computer at Savitribai Phule Pune University\nEducation: HSC in  at Maharashtra State Board\nEducation: SSC in  at Maharashtra State Board\nSkills: Python, Django, MySQL\nWork Experience: Python Developer at Atos Syntel (15 months)",
+    "entities": [
+      [
+        0,
+        9,
+        "EDUCATION"
+      ],
+      [
+        175,
+        181,
+        "SKILLS"
+      ],
+      [
+        205,
+        220,
+        "WORK EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 108,
+    "text": "Summary: Senior Business Analyst with extensive experience in RPA, process automation, and business analysis. Skilled in requirement gathering, documentation, testing, and stakeholder communication.\nEducation: Bachelor in Computer Engineering at Thadomal Shahani Engineering College\nEducation: Diploma in Computer Engineering at Institute of Technology\nSkills: SQL\nWork Experience: Senior Business Analyst - RPA at Hexaware Technologies (Unknown)\nWork Experience: Business Analyst at BBH - Brown Brothers Harriman & Co (Unknown)\nWork Experience: Business Analyst at First Advantage (FADV) (Unknown)",
+    "entities": [
+      [
+        199,
+        208,
+        "EDUCATION"
+      ],
+      [
+        353,
+        359,
+        "SKILLS"
+      ],
+      [
+        365,
+        380,
+        "WORK EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 109,
+    "text": "Education: B.E in Computer Science and Engineering at RTMNU University - Jhulelal Institute of Technology\nEducation: HSC in  at Dayanand Arya Kanya Junior College\nEducation: SSC in  at\nSkills: C, C++, J2EE, Spring, Hibernate, MySQL, PostgreSQL, Functional Testing, Manual Testing, Windows, Linux, MS Office\nWork Experience: Java Developer at Inouvelle Ventures Private Limited ()\nProject: Stock Management System - Stock management system is developed for the medicinal market to track medicines, surgical equipment, wholesalers, retailers, employees, and customers. It includes debtor invoicing and inventory control.\nProject: Printing Press Management System - A web-based system designed for an old printing press in Nagpur to enhance organizational growth, efficiency, and profitability.",
+    "entities": [
+      [
+        0,
+        9,
+        "EDUCATION"
+      ],
+      [
+        185,
+        191,
+        "SKILLS"
+      ],
+      [
+        307,
+        322,
+        "WORK EXPERIENCE"
+      ],
+      [
+        380,
+        387,
+        "PROJECT EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 110,
+    "text": "Summary: Senior Business Analyst with extensive experience in RPA, process automation, and business analysis. Skilled in documentation, testing, and integration with a strong background in Agile and Waterfall methodologies.\nEducation: Bachelor in Computer Engineering at Thadomal Shahani Engineering College\nEducation: Diploma in Computer Engineering at Institute of Technology\nEducation: Secondary School Certificate in General Education at New English High School\nSkills: SQL\nWork Experience: Senior Business Analyst - RPA at Hexaware Technologies (Unknown)\nWork Experience: Business Analyst at BBH - Brown Brothers Harriman & Co (Unknown)\nWork Experience: Business Analyst at First Advantage (FADV) (Unknown)",
+    "entities": [
+      [
+        224,
+        233,
+        "EDUCATION"
+      ],
+      [
+        466,
+        472,
+        "SKILLS"
+      ],
+      [
+        478,
+        493,
+        "WORK EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 111,
+    "text": "Summary: Java Developer with experience in various technologies and tools.\nEducation: H.S.C in Not Provided at VidyaBharati college\nSkills: Java, Spring, Hibernate, MySQL, Not Provided\nWork Experience: Java Developer at Kunal IT Services Pvt Ltd (2 years)\nProject: Not Provided - Not Provided",
+    "entities": [
+      [
+        75,
+        84,
+        "EDUCATION"
+      ],
+      [
+        132,
+        138,
+        "SKILLS"
+      ],
+      [
+        185,
+        200,
+        "WORK EXPERIENCE"
+      ],
+      [
+        256,
+        263,
+        "PROJECT EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 112,
+    "text": "Summary: Experienced Operations Manager with expertise in project execution, engineering, and team coordination. Skilled in managing contractual and commercial issues, ensuring project profitability, and maintaining high client satisfaction.\nEducation: B.E in Electronics at Pune University\nSkills: Project Execution, Quality Management, Budget Monitoring, PLC Programming, SCADA Systems, SAP, Microsoft Visio\nWork Experience: Operations Manager at Delta Controls, Dubai FZCO (7 years)\nWork Experience: Project Lead at Honeywell Automation India Ltd (1 year 1 month)\nWork Experience: Project Engineer at Fox Controls (Unknown)\nWork Experience: Commissioning Leader at Enercon (India) Limited (Unknown)\nProject: FGP/WPMP - Led system configuration and application development for EPKS DCS + SIS + FGS.\nProject: Grain LNG RTLF - Managed LNG Tanker Loading system development.\nProject: AMC TO HPM Migration-MX8800 - Led migration of HPM controllers for Thai Oil Public Co. Ltd.\nProject: Utilities and Offsites - Managed utilities for ETHYLENE plant in Egypt.\nProject: Control Plant-3/ Control Plant-6 - Led HVAC system development for Qatar Foundation.\nProject: Graphics Development - Developed HMI graphics for Chevron Oronite, Singapore.",
+    "entities": [
+      [
+        242,
+        251,
+        "EDUCATION"
+      ],
+      [
+        291,
+        297,
+        "SKILLS"
+      ],
+      [
+        410,
+        425,
+        "WORK EXPERIENCE"
+      ],
+      [
+        702,
+        709,
+        "PROJECT EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 113,
+    "text": "Summary: DevOps Engineer with proficiency in various software languages and tools. Experienced in project roles such as Programmer and Mechanism designer.\nEducation: B.E. in  at Savitribai Phule Pune University\nEducation: S.S.C in  at Maharashtra Board\nSkills: C, SQL, PL/SQL, JAVA, JAVAEE, Javascript, HTML, CSS, jquery, mysql, Spring, Hibernate, Python\nWork Experience: DevOps Engineer at Parkar Consulting and Labs ()\nProject: FPGA Implementation of AES Algorithm - AES is Advanced Encryption Standard which is used in cryptography by which we can protect our data. It encrypted by a Secret Key.\nProject: Sorting Robot - The TCS 230 sensor sorts the RGB color balls according to their color.\nProject: RFID Based Student Attendance System Using GSM - In this student show RFID card of his own and then message send via GSM to their parent that his ward is present.",
+    "entities": [
+      [
+        155,
+        164,
+        "EDUCATION"
+      ],
+      [
+        253,
+        259,
+        "SKILLS"
+      ],
+      [
+        355,
+        370,
+        "WORK EXPERIENCE"
+      ],
+      [
+        421,
+        428,
+        "PROJECT EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 114,
+    "text": "Education: BE in Computer Engineering at Late G.N. Sapkal College of Engineering\nEducation: Diploma in Computer Technology at K K Wagh Polytechnic\nSkills: Java, J2EE, Spring MVC, Ionic 3, AngularJS, Struts, MySQL, MsSQL, Oracle, Azure Web Services\nWork Experience: Java Developer at Replete Business Solutions Pvt Ltd ()",
+    "entities": [
+      [
+        0,
+        9,
+        "EDUCATION"
+      ],
+      [
+        147,
+        153,
+        "SKILLS"
+      ],
+      [
+        248,
+        263,
+        "WORK EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 115,
+    "text": "Summary: Python Developer/analyst\nEducation: B.E. in Electronics at University of Mumbai\nSkills: Python, HTML, MySQL, Django, Not Provided, MySQL, Not Provided\nWork Experience: Python Developer/analyst at Ace The Power of 5 (12 months)\nWork Experience: Python Developer/analyst at Kranti Dynamics (12 months)\nProject: Fruit Sorting and Disease Detection - Not Provided",
+    "entities": [
+      [
+        34,
+        43,
+        "EDUCATION"
+      ],
+      [
+        89,
+        95,
+        "SKILLS"
+      ],
+      [
+        160,
+        175,
+        "WORK EXPERIENCE"
+      ],
+      [
+        309,
+        316,
+        "PROJECT EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 116,
+    "text": "Summary: Devops Engineer with strong competencies in Ant, Maven, GIT, Bitbucket, Jenkins, Linux, Ansible, Shell Scripting, Requirement Gathering, Continuous Integration and Continuous Deployment, Software Development Life Cycle, Software Testing Life Cycle, Documentation & Reporting, Test Reports.\nEducation: Masters in Science Information Technology at JNTU\nSkills: C, Core Java, Not Provided, Not Provided, Not Provided\nWork Experience: Devops Engineer at Nendrasys Technologies Pvt Ltd (Not Provided)\nProject: E-commerce product features for sloan project - The Scope of the project is to design & develop e-commerce product features for sloan project. It's a basically B2B project where customer can buy all fixers, sinks related product. It focuses on the company, the stakeholders and applications, which allow for online sales, distribution and marketing of product.\nProject: Bangkok Bank Limited (BBL) Thaitrade (Commercial, E-commerce & Payment portal) - BBL is development of an e-commerce payment portal System. As such BBL require a system which can support multiple merchants B2B/B2C e-commerce portal with various payment options via both online and offline. To achieve this BBL had made an agreement with Thai Trade, Thai Trade is one of the leading e-commerce website recognized by Thai government. In present Thai trade has a good base of users and sellers in several categories .The scope of the project is to design and develop e-commerce product features for BBLWTP project. It focuses on the company, the stakeholders and applications, which allow for online sales, distribution and marketing of electronics.",
+    "entities": [
+      [
+        299,
+        308,
+        "EDUCATION"
+      ],
+      [
+        360,
+        366,
+        "SKILLS"
+      ],
+      [
+        423,
+        438,
+        "WORK EXPERIENCE"
+      ],
+      [
+        505,
+        512,
+        "PROJECT EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 117,
+    "text": "Summary: DevOps Engineer with software proficiency in various languages and tools.\nEducation: B.E. in Not Provided at Savitribai Phule Pune University\nSkills: C, SQL, PL/SQL, JAVA, JAVAEE, Javascript, HTML, CSS, jquery, mysql, Spring, Hibernate, Python, Not Provided, Not Provided, AWS\nWork Experience: DevOps Engineer at Parkar Consulting and Labs (Not Provided)\nProject: FPGA Implementation - B.E. Project: AES is Advanced Encryption Standard which is used in cryptography by which we can protect our data. It encrypted by a Secret Key.\nProject: Sorting Robot - T.E. project: The TCS 230 sensor sorts the RGB color balls according to their color.\nProject: RFID Based Student Attendance System Using GSM - Diploma Project: In this student show RFID card of his own and then message send via GSM to their parent that his ward is present.",
+    "entities": [
+      [
+        83,
+        92,
+        "EDUCATION"
+      ],
+      [
+        151,
+        157,
+        "SKILLS"
+      ],
+      [
+        286,
+        301,
+        "WORK EXPERIENCE"
+      ],
+      [
+        364,
+        371,
+        "PROJECT EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 118,
+    "text": "Summary: Devops Engineer with strong skills in Ant, Maven, GIT, Bitbucket, Jenkins, Linux, Ansible, Shell Scripting, Requirement Gathering, Continuous Integration and Continuous Deployment, Software Development Life Cycle, Software Testing Life Cycle, Documentation & Reporting, Test Reports.\nEducation: Masters in science information technology at JNTU\nSkills: C, Core Java, Unknown, Unknown, Unknown\nWork Experience: Devops Engineer at Nendrasys Technologies Pvt Ltd (Unknown)\nProject: Sloan Global Holdings (Sloan) (E-commerce) - The Scope of the project is to design & develop e-commerce product features for sloan project. It's a basically B2B project where customer can buy all fixers, sinks related product. It focuses on the company, the stakeholders and applications, which allow for online sales, distribution and marketing of product.",
+    "entities": [
+      [
+        293,
+        302,
+        "EDUCATION"
+      ],
+      [
+        354,
+        360,
+        "SKILLS"
+      ],
+      [
+        402,
+        417,
+        "WORK EXPERIENCE"
+      ],
+      [
+        479,
+        486,
+        "PROJECT EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 119,
+    "text": "Education: MCA in Computer Science at SGBAU, Amravati\nSkills: Java, JavaScript, Spring, Hibernate, Struts\nWork Experience: Java Web Developer at Salcluster Technologies (6 months)",
+    "entities": [
+      [
+        0,
+        9,
+        "EDUCATION"
+      ],
+      [
+        54,
+        60,
+        "SKILLS"
+      ],
+      [
+        106,
+        121,
+        "WORK EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 120,
+    "text": "Summary: Python Developer\nEducation: BE in Unknown at Dr.BAMU,Aurangabad\nSkills: Python, CSS, HTML, MySQL, Django, web services, Logger, Mongodb, json, Unix, Rest, Sqlit3, Django, MySQL, Mongodb, Unknown\nWork Experience: Python Developer at Arsys Inovics pvt ltd (Unknown)\nProject: F-MAS (Frequency Monitoring and Analysis Systems - (F-MAS)) - F-MAS is a project for managing network inventory, network communication, fault management & network traffic analysis. The telecommunications service providers, are used to support a range of telecommunication services. The Operations Support Systems (OSS) collectively provides support for various elements used in Public Switched Telephone Networks, for example processing an order may require information on the services the customer already has, the network they are using, and currently available resources.",
+    "entities": [
+      [
+        26,
+        35,
+        "EDUCATION"
+      ],
+      [
+        73,
+        79,
+        "SKILLS"
+      ],
+      [
+        204,
+        219,
+        "WORK EXPERIENCE"
+      ],
+      [
+        273,
+        280,
+        "PROJECT EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 121,
+    "text": "Education: Bachelor of Engineering in Computer at Savitribai Phule Pune University\nEducation: HSC in  at Maharashtra State Board\nEducation: SSC in  at Maharashtra State Board\nSkills: Python, Database, MySQL, Django, HTML5, REST API\nWork Experience: Python Developer at Atos Syntel ()",
+    "entities": [
+      [
+        0,
+        9,
+        "EDUCATION"
+      ],
+      [
+        175,
+        181,
+        "SKILLS"
+      ],
+      [
+        232,
+        247,
+        "WORK EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 122,
+    "text": "Summary: Hardworking Java Developer enthusiastic about working with multicultural teams. Having 2 years of experience in working with a Payment Gateway Solutions provider with Core Java.\nEducation: Bachelor of Engineering in Computer at Savitribai Phule Pune University\nSkills: Java, Oracle, MySQL, Derby, Windows, Linux (CentOS 6.6), Eclipse (Oxygen), SonarQube, Putty\nWork Experience: Java Developer at Aurus Tech Pvt. Ltd (2 years)",
+    "entities": [
+      [
+        187,
+        196,
+        "EDUCATION"
+      ],
+      [
+        270,
+        276,
+        "SKILLS"
+      ],
+      [
+        370,
+        385,
+        "WORK EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 123,
+    "text": "Summary: Cloud Operations Architect (DevOps) with extensive experience in cloud computing, shell scripting, python, automation, and solution architecture.\nEducation: Post Graduate Diploma in Information Technology at Symbiosis Institute\nEducation: Bachelor of Engineering in Electronics and Telecommunications at Pune University\nSkills: Python, Shell Scripting, Not Provided, Not Provided, AWS, Azure\nWork Experience: Cloud Operations Architect (DevOps) at DevOps (Not Provided)\nProject: Not Provided - Not Provided",
+    "entities": [
+      [
+        155,
+        164,
+        "EDUCATION"
+      ],
+      [
+        329,
+        335,
+        "SKILLS"
+      ],
+      [
+        401,
+        416,
+        "WORK EXPERIENCE"
+      ],
+      [
+        479,
+        486,
+        "PROJECT EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 124,
+    "text": "Summary: Python Developer with experience in Python, C++, MySQL, and machine learning frameworks such as TensorFlow and NumPy. Strong background in computer engineering with a master's degree from Savitribai Phule Pune University.\nEducation: ME in Computer Engineering at Savitribai Phule Pune University\nEducation: BE in Computer Engineering at Savitribai Phule Pune University\nEducation: High School in Science at RYK Science College\nEducation: Secondary School in  at Maharashtra State Board\nSkills: Python, C++, TensorFlow, NumPy, MySQL\nWork Experience: Python Developer at Fresher ()",
+    "entities": [
+      [
+        231,
+        240,
+        "EDUCATION"
+      ],
+      [
+        495,
+        501,
+        "SKILLS"
+      ],
+      [
+        541,
+        556,
+        "WORK EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 125,
+    "text": "Education: Master of Engineering in Information Technology at M.I.T\nEducation: Bachelor of Engineering in Information Technology at Amravati University\nEducation: Higher Secondary in  at P. N. Junior College\nEducation: S.S.C in  at K.D. High-School\nSkills: C, C++, Java, Android, MS Access, SQL, Oracle\nWork Experience: Java Developer at Maxgen Technologies ()\nWork Experience:  at MIS Generation of Tata Sky and Tata Power ()\nProject: Location Detector of Computing and Mobile Devices - Android project for detecting location of computing and mobile devices.\nProject: Data Deduplication - Project to reduce redundant data from the system and free up memory by storing unique copies of data and using pointers for access.",
+    "entities": [
+      [
+        0,
+        9,
+        "EDUCATION"
+      ],
+      [
+        249,
+        255,
+        "SKILLS"
+      ],
+      [
+        303,
+        318,
+        "WORK EXPERIENCE"
+      ],
+      [
+        427,
+        434,
+        "PROJECT EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 126,
+    "text": "Education: MCA in Computer Science at SGBAU, Amravati\nSkills: Java, JavaScript, Spring, Hibernate, Struts\nWork Experience: Java Web Developer at Salcluster Technologies (6 months)",
+    "entities": [
+      [
+        0,
+        9,
+        "EDUCATION"
+      ],
+      [
+        54,
+        60,
+        "SKILLS"
+      ],
+      [
+        106,
+        121,
+        "WORK EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 127,
+    "text": "Summary: Communication Skills: My writing skills in English is very good and I am certainly a clear speaker. Being comfortable speaking in front of an audience, I can easily facilitate meetings and brainstorming sessions. Interpersonal Skills: As a friendly, polite person, with positive attitude I work well with others and deal with difficult situations in a careful and considerate manner. Learning Skills: I have a high capacity for learning, pick up new skills and ideas quickly, and generally thrive on challenges. Enthusiasm and creativity give me an edge on difficult projects. Problem Solving Skills: My analytical skills help me troubleshoot problems and uncover root causes. I am creative and tenacious.\nEducation: Bachelor of Science in INFORMATION TECHNOLOGY at Akbar Peerbhoy College of Comm & Eco. (University of Mumbai)\nEducation:  in  at Janta Inter College Jaunpur\nEducation:  in  at Inter College Jaunpur\nSkills: Network Security, Network Administration, Firewall and VPN Configuration, Routing and Switching\nWork Experience: Network Security Engineer at Karvy Innotech LTD. ()",
+    "entities": [
+      [
+        715,
+        724,
+        "EDUCATION"
+      ],
+      [
+        23,
+        29,
+        "SKILLS"
+      ],
+      [
+        1028,
+        1043,
+        "WORK EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 128,
+    "text": "Summary: Experienced Operations Manager with a background in electronics engineering and extensive expertise in project management, engineering, and automation systems.\nEducation: BE in Electronics at Pune University\nWork Experience: Operations Manager at Delta Controls, Dubai FZCO (7 years)\nWork Experience: Project Lead at Honeywell Automation India Ltd (1 year 1 month)\nWork Experience: Project Engineer at Fox Controls (Unknown)\nWork Experience: Commissioning Leader at Enercon (India) Limited (Unknown)\nProject: FGP/WPMP - Led system configuration and application development for EPKS DCS + SIS + FGS.\nProject: Grain LNG RTLF - Managed engineering activities for LNG tanker loading system.\nProject: AMC TO HPM Migration-MX8800 - Led migration project for HPM controller in furnace process.\nProject: Control Plant-3/ Control Plant-6 - Managed HVAC system integration for Qatar Foundation.\nProject: Graphics Development - Developed HMI graphics for Chevron Oronite.",
+    "entities": [
+      [
+        169,
+        178,
+        "EDUCATION"
+      ],
+      [
+        217,
+        232,
+        "WORK EXPERIENCE"
+      ],
+      [
+        509,
+        516,
+        "PROJECT EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 129,
+    "text": "Summary: Java Developer with experience in various programming languages and technologies.\nEducation: BE in IT at pjlce\nSkills: c++, c, JAVA, DS, Jdbc, Hibernate, Java J2Ee, Javascript, JQuery, Ajax\nWork Experience: Java Developer at Almighty tech pvt ltd ()",
+    "entities": [
+      [
+        91,
+        100,
+        "EDUCATION"
+      ],
+      [
+        120,
+        126,
+        "SKILLS"
+      ],
+      [
+        199,
+        214,
+        "WORK EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 130,
+    "text": "Summary: DevOps Engineer with software proficiency in various languages and tools.\nEducation: B.E. in Unknown at Savitribai Phule Pune University\nSkills: C, SQL, JAVA, Spring, Hibernate, mysql, AWS\nWork Experience: DevOps Engineer at Parkar Consulting and Labs (Unknown)\nProject: FPGA Implementation - B.E. Project: AES Algorithm is Advanced Encryption Standard which is used in cryptography by which we can protect our data. It encrypted by a Secret Key.",
+    "entities": [
+      [
+        83,
+        92,
+        "EDUCATION"
+      ],
+      [
+        146,
+        152,
+        "SKILLS"
+      ],
+      [
+        198,
+        213,
+        "WORK EXPERIENCE"
+      ],
+      [
+        271,
+        278,
+        "PROJECT EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 131,
+    "text": "Summary: Experienced Python RESTful API developer with expertise in software development, debugging, and testing. Strong background in Agile methodology, SDLC, and ERP systems.\nEducation: MSc in Computer Science at Pune University\nEducation: BSc in Computer Science at Pune University\nSkills: Python, Java, RPG/400, Flask, Django, MongoDB, MySQL, PostgreSQL, DB2/400, Pivotal Cloud Foundry\nWork Experience: Python RESTful API Developer at KPIT Technologies (13 years)\nWork Experience: M3 Java Developer & Stream Serve Developer at KPIT Technologies (1 year)\nWork Experience: Senior AS/400 & Stream Serve Developer at KPIT Technologies (4 years)",
+    "entities": [
+      [
+        177,
+        186,
+        "EDUCATION"
+      ],
+      [
+        285,
+        291,
+        "SKILLS"
+      ],
+      [
+        390,
+        405,
+        "WORK EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 132,
+    "text": "Summary: Experienced Operations Manager with expertise in project execution, engineering, and team coordination. Skilled in managing contractual and commercial issues, ensuring project profitability, and maintaining high client satisfaction.\nEducation: B.E in Electronics at Pune University\nSkills: Project Execution, Quality Management, Budget Monitoring, PLC Programming, SCADA Systems, SAP, Microsoft Visio\nWork Experience: Operations Manager at Delta Controls, Dubai FZCO (7 years)\nWork Experience: Project Lead at Honeywell Automation India Ltd (1 year 1 month)\nWork Experience: Project Engineer at Fox Controls (Unknown)\nWork Experience: Commissioning Leader at Enercon (India) Limited (Unknown)\nProject: FGP/WPMP - Led system configuration and application development for EPKS DCS + SIS + FGS.\nProject: Grain LNG RTLF - Managed LNG Tanker Loading system development.\nProject: AMC TO HPM Migration-MX8800 - Led migration of HPM controllers for Thai Oil Public Co. Ltd.\nProject: Utilities and Offsites - Managed utilities for ETHYLENE plant in Egypt.\nProject: Control Plant-3/ Control Plant-6 - Led HVAC system development for Qatar Foundation.\nProject: Graphics Development - Developed HMI graphics for Chevron Oronite, Singapore.",
+    "entities": [
+      [
+        242,
+        251,
+        "EDUCATION"
+      ],
+      [
+        291,
+        297,
+        "SKILLS"
+      ],
+      [
+        410,
+        425,
+        "WORK EXPERIENCE"
+      ],
+      [
+        702,
+        709,
+        "PROJECT EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 133,
+    "text": "Education: MSc in Computer Science at Pune University\nEducation: BSc in Computer Science at Pune University\nSkills: Python, AS/400, Flask, MongoDB, MySQL\nWork Experience: Python RESTful API developer at KPIT Technologies ()",
+    "entities": [
+      [
+        0,
+        9,
+        "EDUCATION"
+      ],
+      [
+        108,
+        114,
+        "SKILLS"
+      ],
+      [
+        154,
+        169,
+        "WORK EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 134,
+    "text": "Summary: Java Developer with experience in web application development, backend to frontend module development, and database management. Strong problem-solving skills and ability to resolve project-related issues efficiently.\nEducation: B.E. in Computer Technology at Manoharbhai Patel Institute of Engineering and Technology\nEducation: HSC in  at S.M.P. Science College\nSkills: Java, SQL, PL/SQL, C, C++, Ext JS, JSP, BootStrap, Oracle, MS-SQL, MS-Access, MS-Excel\nWork Experience: Java Developer at Xoriant Solutions Pvt Ltd (ongoing)",
+    "entities": [
+      [
+        226,
+        235,
+        "EDUCATION"
+      ],
+      [
+        371,
+        377,
+        "SKILLS"
+      ],
+      [
+        466,
+        481,
+        "WORK EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 135,
+    "text": "Education: B.E in Computer Science and Engineering at RTMNU University - Jhulelal Institute of Technology\nEducation: HSC in  at Dayanand Arya Kanya Junior College\nEducation: SSC in  at Maharashtra State Board\nSkills: C, C++, J2EE, Spring, Hibernate, MySQL, PostgreSQL, Functional Testing, Manual Testing, Windows, Linux, MS Office\nWork Experience: Java Developer at Inouvelle Ventures Private Limited ()\nProject: Stock Management System - Developed for the Medicinal Market to track medicines, surgical equipment, wholesalers, retailers, employees, and customers. Includes debtor invoicing and inventory control.\nProject: Printing Press Management System - Web-based system designed to enhance organization growth, efficiency, and profitability for the oldest printing press in Nagpur.",
+    "entities": [
+      [
+        0,
+        9,
+        "EDUCATION"
+      ],
+      [
+        209,
+        215,
+        "SKILLS"
+      ],
+      [
+        331,
+        346,
+        "WORK EXPERIENCE"
+      ],
+      [
+        404,
+        411,
+        "PROJECT EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 136,
+    "text": "Summary: Python Developer/analyst with experience in python scripting, programming, developing, frontend, html, python libraries, mysql, django, web scrapping.\nEducation: B.E. in Electronics at University of Mumbai\nSkills: Python, HTML, Java, Django, MySQL, Not Provided\nWork Experience: Python Developer/analyst at Ace The Power of 5 (12 months)\nWork Experience: Python Developer/analyst at Kranti Dynamics (Not Provided)\nProject: Fruit Sorting and Disease Detection - Not Provided",
+    "entities": [
+      [
+        160,
+        169,
+        "EDUCATION"
+      ],
+      [
+        215,
+        221,
+        "SKILLS"
+      ],
+      [
+        271,
+        286,
+        "WORK EXPERIENCE"
+      ],
+      [
+        423,
+        430,
+        "PROJECT EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 137,
+    "text": "Summary: Data Scientist with expertise in data and quantitative analysis, decision analytics, predictive modeling, data-driven personalization, KPI dashboards, big data queries, data mining, machine learning, and business intelligence.\nEducation: Postgraduate in Data Science at Aegis School of Data Science & Business\nEducation: Bachelor's in Electronics & Communication at IES IPS Academy\nSkills: Python, Spark, Hadoop, IBM Bluemix\nWork Experience: Adjunct Faculty & Data Scientist at Aegis School of Data Science & Business (7+ years)\nWork Experience: Data Science Intern at Aegis School of Data & Business (3 months)\nWork Experience: Data Scientist at IBM India Pvt Ltd (Unknown)\nProject: Chat Bot using AWS LEX and TensorFlow - Developed a chatbot for academic institutions to handle course-related queries, reducing human effort and errors.\nProject: Web Scraping using Selenium - Scraped data from an online messaging portal and identified patterns.\nProject: Data Visualization and Insights - Built business solutions for an Internet Service Provider by visualizing daily data and identifying usage patterns.\nProject: Image-Based Fraud Detection - Developed a face recognition system to detect fraudulent loan applications.\nProject: Churn Analysis for ISP - Identified customers likely to churn and recommended incentive offers.\nProject: Sentiment Analysis - Analyzed Twitter data for mobile network providers to determine sentiment trends.",
+    "entities": [
+      [
+        236,
+        245,
+        "EDUCATION"
+      ],
+      [
+        391,
+        397,
+        "SKILLS"
+      ],
+      [
+        434,
+        449,
+        "WORK EXPERIENCE"
+      ],
+      [
+        684,
+        691,
+        "PROJECT EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 138,
+    "text": "Summary: Experienced Java Developer and Automation Test Engineer with expertise in Selenium WebDriver, TestNG, and Java. Skilled in automation testing, database management, and software development.\nEducation: B.E. in Computer Engineering at Savitribai Phule University of Pune\nSkills: Java, C++, SQL, TestNG, Selenium WebDriver, SQL, Eclipse, Postman, Jenkins\nWork Experience: Jr. Java Developer at Phoenix Microsystems Pvt. Ltd. (Unknown)\nProject: SWB-EBS Support - Inventory Operation System for managing inventories, scheduling events, and handling invoicing.\nProject: Intelligen for Mobile App Development - Inventory Management System (IMS) for retailers to track inventory, costs, and sales.\nProject: Loan LeLo Automation - Automated loan selection system for customers to compare and apply for loans.\nProject: DDSM Automation - Automated system for managing customer and user details with role-based permissions.",
+    "entities": [
+      [
+        199,
+        208,
+        "EDUCATION"
+      ],
+      [
+        278,
+        284,
+        "SKILLS"
+      ],
+      [
+        361,
+        376,
+        "WORK EXPERIENCE"
+      ],
+      [
+        441,
+        448,
+        "PROJECT EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 139,
+    "text": "Summary: Python Developer/analyst\nEducation: B.E. in Electronics at University of Mumbai\nSkills: Python, HTML, MySQL, Django, Unknown, MySQL, Unknown\nWork Experience: Python Developer/analyst at Ace The Power of 5 (12 months)\nWork Experience: Python Developer/analyst at Kranti Dynamics (12 months)\nProject: Fruit sorting and disease detection - Unknown",
+    "entities": [
+      [
+        34,
+        43,
+        "EDUCATION"
+      ],
+      [
+        89,
+        95,
+        "SKILLS"
+      ],
+      [
+        150,
+        165,
+        "WORK EXPERIENCE"
+      ],
+      [
+        299,
+        306,
+        "PROJECT EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 140,
+    "text": "Summary: Java Developer with experience in various technologies such as Spring MVC, Hibernate, JDBC, Java, J2EE, AzureWeb SunTechnologies Services, JSP, Struts, Servlet, RestApi, JavaScript, AJAX, HTML, JSON, PHP, MsSQL, MySQL, Oracle, ApacheTomcatServer, IONIC, HTML, JSON, WindowsServer2012R2, WinXP/7/8.1/10, Linux, Mac OS.\nEducation: BE in Computer Engineering at Late G.N. Sapkal COE Nashik\nEducation: Diploma in Computer technology at K K Wagh Polytechnic Nashik\nSkills: Java, AJAX, HTML, J2EE, Spring MVC, Ionic 3, Angular JS, Spring, Java, Not Provided, MsSQL, MySQL, Oracle, Not Provided\nWork Experience: Java Developer at Replete business solutions pvt ltd (Not Provided)\nProject: Not Provided - Not Provided",
+    "entities": [
+      [
+        327,
+        336,
+        "EDUCATION"
+      ],
+      [
+        469,
+        475,
+        "SKILLS"
+      ],
+      [
+        597,
+        612,
+        "WORK EXPERIENCE"
+      ],
+      [
+        682,
+        689,
+        "PROJECT EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 141,
+    "text": "Summary: Final year Computer Science student at City, University of London with strong focus on machine learning and software engineering. Experienced in developing ML-powered applications and passionate about solving complex technical challenges.\nEducation: BSc in Computer Science at City, University of London\nSkills: Python, JavaScript, Java, PyTorch, FastAPI, React, PostgreSQL, MongoDB, AWS, Docker\nWork Experience: Machine Learning Engineer Intern at TechStart AI (3 months)\nProject: Resume Parser & Job Matcher - Final year project: AI-powered system for matching job seekers with relevant positions using NLP",
+    "entities": [
+      [
+        248,
+        257,
+        "EDUCATION"
+      ],
+      [
+        313,
+        319,
+        "SKILLS"
+      ],
+      [
+        405,
+        420,
+        "WORK EXPERIENCE"
+      ],
+      [
+        482,
+        489,
+        "PROJECT EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 142,
+    "text": "Summary: Full Stack Java Developer with experience in Java, Spring Boot, JSP, and front-end technologies. Skilled in building web applications and working with databases.\nEducation: MCA in Computer Applications at Pune University\nEducation: BCA in Computer Applications at Amravati University\nSkills: Java, Spring Boot, JSP, Servlet, MySQL\nWork Experience: Java Developer at Salcluster Technologies ()\nWork Experience: Intern at OmegaSoft Technologies Pvt. Ltd. (5 months)\nProject: GST And Sales Billing Software - A web application for GST billing, invoice generation, and sales management using Java (Servlet and JSP), JavaScript, JQuery, Ajax, and MySQL.\nProject: Dinman News Website - A website for displaying online video and text news using Java (Servlet and JSP), JavaScript, JQuery, Ajax, and MySQL.\nProject: Agri Management Website - A website for purchasing and selling vegetables across India using Java (Servlet and JSP), JavaScript, JQuery, Ajax, and MySQL.",
+    "entities": [
+      [
+        171,
+        180,
+        "EDUCATION"
+      ],
+      [
+        293,
+        299,
+        "SKILLS"
+      ],
+      [
+        340,
+        355,
+        "WORK EXPERIENCE"
+      ],
+      [
+        473,
+        480,
+        "PROJECT EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 143,
+    "text": "Education: B.E. in Information Technology at Vidyalankar Institute of Technology\nEducation: Diploma in  at Thakur Polytechnic\nEducation: High School in  at St. John's Universal School\nSkills: Java, J2EE, Swift, HTML, Shell Script, MySQL\nWork Experience: Java Developer at Tech Mahindra (21 months)\nWork Experience: Java Developer at Tech Mahindra (17 months)",
+    "entities": [
+      [
+        0,
+        9,
+        "EDUCATION"
+      ],
+      [
+        184,
+        190,
+        "SKILLS"
+      ],
+      [
+        237,
+        252,
+        "WORK EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 144,
+    "text": "Summary: I want to work in organisation as a python developer to utilize my knowledge & To gain more knowledge with our organisation.\nEducation: Diploma in Computer Science at Aissms\nEducation: BE in Computer Science at Anantrao pawar college of Engineering & Research centre\nSkills: Python\nWork Experience: Python Developer at Cybage Software Pvt. Ltd ()",
+    "entities": [
+      [
+        134,
+        143,
+        "EDUCATION"
+      ],
+      [
+        276,
+        282,
+        "SKILLS"
+      ],
+      [
+        291,
+        306,
+        "WORK EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 145,
+    "text": "Education: BE in Electronics & Communication at Takshshila Institute of Technology\nSkills: Java, JavaScript\nWork Experience: Jr. Java Developer at Wab It Software Pvt. Ltd. (6 months)",
+    "entities": [
+      [
+        0,
+        9,
+        "EDUCATION"
+      ],
+      [
+        83,
+        89,
+        "SKILLS"
+      ],
+      [
+        108,
+        123,
+        "WORK EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 146,
+    "text": "Summary: Devops Engineer with experience in various DevOps methodologies and tools.\nEducation: Masters in science information technology at JNTU\nSkills: C, Core Java, Unknown, Unknown, Unknown\nWork Experience: Devops Engineer at Nendrasys Technologies Pvt Ltd (Unknown)\nProject: Unknown - Unknown",
+    "entities": [
+      [
+        84,
+        93,
+        "EDUCATION"
+      ],
+      [
+        145,
+        151,
+        "SKILLS"
+      ],
+      [
+        193,
+        208,
+        "WORK EXPERIENCE"
+      ],
+      [
+        270,
+        277,
+        "PROJECT EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 147,
+    "text": "Summary: Python Developer with experience in computer vision and image preprocessing.\nEducation: Bachelor of Engineering in Computer at Savitribai Phule Pune University\nSkills: Python, Django, MySQL, REST API\nWork Experience: Python Developer at Atos Syntel (Unknown)\nProject: Unknown - Unknown",
+    "entities": [
+      [
+        86,
+        95,
+        "EDUCATION"
+      ],
+      [
+        169,
+        175,
+        "SKILLS"
+      ],
+      [
+        209,
+        224,
+        "WORK EXPERIENCE"
+      ],
+      [
+        268,
+        275,
+        "PROJECT EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 148,
+    "text": "Summary: Python Developer\nEducation: BE in Unknown at Dr.BAMU,Aurangabad\nSkills: Python, CSS, HTML, MySQL, Django, web services, Logger, Mongodb, json, Unix, Rest, Sqlit3, Django, MySQL, Mongodb, Unknown\nWork Experience: Python Developer at Arsys Inovics pvt ltd (Unknown)\nProject: F-MAS (Frequency Monitoring and Analysis Systems - (F-MAS)) - F-MAS is a project for managing network inventory, network communication, fault management & network traffic analysis. The telecommunications service providers, are used to support a range of telecommunication services. The Operations Support Systems (OSS) collectively provides support for various elements used in Public Switched Telephone Networks, for example processing an order may require information on the services the customer already has, the network they are using, and currently available resources.",
+    "entities": [
+      [
+        26,
+        35,
+        "EDUCATION"
+      ],
+      [
+        73,
+        79,
+        "SKILLS"
+      ],
+      [
+        204,
+        219,
+        "WORK EXPERIENCE"
+      ],
+      [
+        273,
+        280,
+        "PROJECT EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 149,
+    "text": "Summary: Final year Computer Science student at City, University of London with strong focus on machine learning and software engineering. Experienced in developing ML-powered applications and passionate about solving complex technical challenges.\nEducation: BSc in Computer Science at City, University of London\nSkills: Python, JavaScript, Java, PyTorch, FastAPI, React, PostgreSQL, MongoDB, AWS, Docker\nWork Experience: Machine Learning Engineer Intern at TechStart AI (3 months)\nProject: Resume Parser & Job Matcher - Final year project: AI-powered system for matching job seekers with relevant positions using NLP",
+    "entities": [
+      [
+        248,
+        257,
+        "EDUCATION"
+      ],
+      [
+        313,
+        319,
+        "SKILLS"
+      ],
+      [
+        405,
+        420,
+        "WORK EXPERIENCE"
+      ],
+      [
+        482,
+        489,
+        "PROJECT EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 150,
+    "text": "Summary: Full Stack Java Developer with experience in Java, Spring Boot, JSP, and front-end technologies. Skilled in building web applications and working with databases.\nEducation: MCA in Computer Applications at Pune University\nEducation: BCA in Computer Applications at Amravati University\nSkills: Java, Spring Boot, JSP, Servlet, MySQL\nWork Experience: Java Developer at Salcluster Technologies (Unknown)\nWork Experience: Java Developer at OmegaSoft Technologies Pvt. Ltd. (5 months)\nProject: GST And Sales Billing Software - A web application for GST billing, invoice generation, and sales management using Java (Servlet and JSP), JavaScript, JQuery, Ajax, and MySQL.\nProject: Dinman News Website - A website for displaying online video and text news using Java (Servlet and JSP), JavaScript, JQuery, Ajax, and MySQL.\nProject: Agri Management Website - A website for purchasing and selling vegetables across India using Java (Servlet and JSP), JavaScript, JQuery, Ajax, and MySQL.",
+    "entities": [
+      [
+        171,
+        180,
+        "EDUCATION"
+      ],
+      [
+        293,
+        299,
+        "SKILLS"
+      ],
+      [
+        340,
+        355,
+        "WORK EXPERIENCE"
+      ],
+      [
+        488,
+        495,
+        "PROJECT EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 151,
+    "text": "Summary: Achievement-oriented professional with strong problem-solving, coordination, and analytical skills. Experienced in managing multiple tasks and projects simultaneously, with excellent communication and interpersonal abilities. Willing to travel and relocate.\nEducation: B.E in Electrical and Electronics Engineering at VTU (Vishweshwariya University)\nEducation: HSC in  at Kisanveer Mahavidyalay\nWork Experience: Electrical Engineer at REFCON ENGINEERING PVT. LTD ()\nWork Experience: Asst. Electrical Engineer at KISANVEER SUGARS PVT. LTD (1.5 years)\nProject: Greenfield Projects - Managed multiple Greenfield projects across various locations, ensuring successful completion.",
+    "entities": [
+      [
+        267,
+        276,
+        "EDUCATION"
+      ],
+      [
+        404,
+        419,
+        "WORK EXPERIENCE"
+      ],
+      [
+        559,
+        566,
+        "PROJECT EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 152,
+    "text": "Summary: DevOps Engineer with experience in various programming languages and software tools.\nEducation: B.E. in Unknown at Savitribai Phule Pune University\nSkills: C, SQL, PL/SQL, JAVA, JAVAEE, Javascript, HTML, CSS, jquery, mysql, Spring, Hibernate, Python, Unknown, Unknown, AWS\nWork Experience: DevOps Engineer at Parkar Consulting and Labs (Unknown)\nProject: FPGA Implementation - B.E. Project: AES Algorithm is Advanced Encryption Standard which is used in cryptography by which we can protect our data. It encrypted by a Secret Key.\nProject: Sorting Robot - T.E. Project: The TCS 230 sensor sorts the RGB color balls according to their color.\nProject: RFID Based Student Attendance System Using GSM - Diploma Project: In this student show RFID card of his own and then message send via GSM to their parent that his ward is present.",
+    "entities": [
+      [
+        94,
+        103,
+        "EDUCATION"
+      ],
+      [
+        157,
+        163,
+        "SKILLS"
+      ],
+      [
+        282,
+        297,
+        "WORK EXPERIENCE"
+      ],
+      [
+        355,
+        362,
+        "PROJECT EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 153,
+    "text": "Education: MSc in Computer Science at Pune University\nEducation: BSc in Computer Science at Pune University\nSkills: Python, AS/400, Flask, MongoDB, MySQL, PostgreSQL\nWork Experience: Python RESTful API developer at KPIT Technologies ()",
+    "entities": [
+      [
+        0,
+        9,
+        "EDUCATION"
+      ],
+      [
+        108,
+        114,
+        "SKILLS"
+      ],
+      [
+        166,
+        181,
+        "WORK EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 154,
+    "text": "Summary: Not Provided\nEducation: Masters in Science Information Technology at JNTU\nSkills: C, Core Java, Not Provided, Not Provided, Not Provided\nWork Experience: Devops Engineer at Nendrasys Technologies Pvt Ltd (Not Provided)\nProject: Not Provided - Not Provided",
+    "entities": [
+      [
+        22,
+        31,
+        "EDUCATION"
+      ],
+      [
+        83,
+        89,
+        "SKILLS"
+      ],
+      [
+        146,
+        161,
+        "WORK EXPERIENCE"
+      ],
+      [
+        228,
+        235,
+        "PROJECT EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 155,
+    "text": "Education: BE in Information Technology at PJLCE\nSkills: C++, C, Java, DS, Hibernate, JDBC, Java J2EE\nWork Experience: Java Developer at Almighty Tech Pvt Ltd ()",
+    "entities": [
+      [
+        0,
+        9,
+        "EDUCATION"
+      ],
+      [
+        49,
+        55,
+        "SKILLS"
+      ],
+      [
+        102,
+        117,
+        "WORK EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 156,
+    "text": "Education: B.E in Information Technology at Savitribai Phule Pune University\nEducation: Higher Secondary School in  at\nSkills: Java, Spring, Hibernate, MongoDB, MySQL\nWork Experience: Java Developer at Vertical Software ()\nProject: Expense Ledger -\nProject: Trimurti Developer (Real Estate) -\nProject: Vimay Enterprise -",
+    "entities": [
+      [
+        0,
+        9,
+        "EDUCATION"
+      ],
+      [
+        119,
+        125,
+        "SKILLS"
+      ],
+      [
+        167,
+        182,
+        "WORK EXPERIENCE"
+      ],
+      [
+        223,
+        230,
+        "PROJECT EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 157,
+    "text": "Summary: Experienced Operations Manager with expertise in project execution, engineering, and team coordination. Skilled in managing contractual and commercial issues, ensuring project profitability, and maintaining high client satisfaction.\nEducation: B.E in Electronics at Pune University\nSkills: Project Execution, Quality Management, Budget Monitoring, PLC Programming, SCADA Systems, SAP, Microsoft Visio\nWork Experience: Operations Manager at Delta Controls, Dubai FZCO (7 years)\nWork Experience: Project Lead at Honeywell Automation India Ltd (1 year 1 month)\nWork Experience: Project Engineer at Fox Controls (Unknown)\nWork Experience: Commissioning Leader at Enercon (India) Limited (Unknown)\nProject: FGP/WPMP - Led system configuration and application development for EPKS DCS + SIS + FGS.\nProject: Grain LNG RTLF - Managed LNG Tanker Loading system development.\nProject: AMC TO HPM Migration-MX8800 - Led migration of HPM controllers for Thai Oil Public Co. Ltd.\nProject: Utilities and Offsites - Managed utilities for ETHYLENE plant in Egypt.\nProject: Control Plant-3/ Control Plant-6 - Led HVAC system development for Qatar Foundation.\nProject: Graphics Development - Developed HMI graphics for Chevron Oronite, Singapore.",
+    "entities": [
+      [
+        242,
+        251,
+        "EDUCATION"
+      ],
+      [
+        291,
+        297,
+        "SKILLS"
+      ],
+      [
+        410,
+        425,
+        "WORK EXPERIENCE"
+      ],
+      [
+        702,
+        709,
+        "PROJECT EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 158,
+    "text": "Summary: Java Developer with experience in web application development, backend to frontend module development, and database management. Strong problem-solving skills and ability to resolve project-related issues efficiently.\nEducation: B.E. in Computer Technology at Manoharbhai Patel Institute of Engineering and Technology\nEducation: HSC in Science at S.M.P. Science College\nSkills: Java, SQL, PL/SQL, C, C++, JSP, Ext JS, Oracle, MS-SQL, MS-Access, MS-Excel\nWork Experience: Java Developer at Xoriant Solutions Pvt Ltd (Ongoing)",
+    "entities": [
+      [
+        226,
+        235,
+        "EDUCATION"
+      ],
+      [
+        378,
+        384,
+        "SKILLS"
+      ],
+      [
+        462,
+        477,
+        "WORK EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 159,
+    "text": "Summary: Python Developer\nEducation: BE in Unknown at Dr.BAMU,Aurangabad\nSkills: Python, CSS, HTML, MySQL, Django, web services, Logger, Mongodb, json, Unix, Rest, Sqlit3, Django, MySQL, Mongodb, Unknown\nWork Experience: Python Developer at Arsys Inovics pvt ltd (Unknown)\nProject: F-MAS (Frequency Monitoring and Analysis Systems - (F-MAS)) - F-MAS is a project for managing network inventory, network communication, fault management & network traffic analysis. The telecommunications service providers, are used to support a range of telecommunication services. The Operations Support Systems (OSS) collectively provides support for various elements used in Public Switched Telephone Networks, for example processing an order may require information on the services the customer already has, the network they are using, and currently available resources.",
+    "entities": [
+      [
+        26,
+        35,
+        "EDUCATION"
+      ],
+      [
+        73,
+        79,
+        "SKILLS"
+      ],
+      [
+        204,
+        219,
+        "WORK EXPERIENCE"
+      ],
+      [
+        273,
+        280,
+        "PROJECT EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 160,
+    "text": "Education: BE in Computer Engineering at Late G.N. Sapkal College of Engineering\nEducation: Diploma in Computer Technology at K K Wagh Polytechnic\nSkills: Java, J2EE, Spring MVC, Ionic 3, AngularJS, MySQL, MsSQL, AJAX, HTML\nWork Experience: Java Developer at Replete Business Solutions Pvt Ltd ()",
+    "entities": [
+      [
+        0,
+        9,
+        "EDUCATION"
+      ],
+      [
+        147,
+        153,
+        "SKILLS"
+      ],
+      [
+        224,
+        239,
+        "WORK EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 161,
+    "text": "Education: MCA in Computer Science at SGBAU, Amravati\nSkills: Java, JavaScript, Spring, Hibernate, Struts\nWork Experience: Java Web Developer at Salcluster Technologies (6 months)",
+    "entities": [
+      [
+        0,
+        9,
+        "EDUCATION"
+      ],
+      [
+        54,
+        60,
+        "SKILLS"
+      ],
+      [
+        106,
+        121,
+        "WORK EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 162,
+    "text": "Summary: Achievement-oriented professional with strong problem-solving, coordination, and analytical skills. Experienced in managing multiple tasks and projects simultaneously, with excellent communication and interpersonal abilities. Willing to travel and relocate.\nEducation: B.E in Electrical and Electronics Engineering at VTU (Vishweshwariya University)\nEducation: HSC in  at Kisanveer Mahavidyalay\nWork Experience: Electrical Engineer at REFCON ENGINEERING PVT. LTD ()\nWork Experience: Asst. Electrical Engineer at KISANVEER SUGARS PVT. LTD (1.5 years)",
+    "entities": [
+      [
+        267,
+        276,
+        "EDUCATION"
+      ],
+      [
+        404,
+        419,
+        "WORK EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 163,
+    "text": "Summary: Achievement-oriented professional with strong problem-solving, coordination, and analytical skills. Experienced in managing multiple tasks and projects simultaneously, with excellent communication and interpersonal abilities. Willing to travel and relocate.\nEducation: B.E in Electrical and Electronics Engineering at VTU (Vishweshwariya University)\nEducation: HSC in  at Kisanveer Mahavidyalay\nWork Experience: Electrical Engineer at REFCON ENGINEERING PVT. LTD ()\nWork Experience: Asst. Electrical Engineer at KISANVEER SUGARS PVT. LTD (1.5 years)",
+    "entities": [
+      [
+        267,
+        276,
+        "EDUCATION"
+      ],
+      [
+        404,
+        419,
+        "WORK EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 164,
+    "text": "Education: B.E in Computer Science and Engineering at RTMNU University - Jhulelal Institute of Technology\nEducation: HSC in  at Dayanand Arya Kanya Junior College\nEducation: SSC in  at\nSkills: C, C++, J2EE, Spring, Hibernate, MySQL, PostgreSQL, Functional Testing, Manual Testing, Windows, Linux, MS Office\nWork Experience: Java Developer at Inouvelle Ventures Private Limited ()\nProject: Stock Management System - Developed for the medicinal market to track medicines, surgical equipment, wholesalers, retailers, employees, and customers. Includes debtor invoicing and inventory control.\nProject: Printing Press Management System - A web-based system designed to enhance efficiency and profitability for one of the oldest printing presses in Nagpur.",
+    "entities": [
+      [
+        0,
+        9,
+        "EDUCATION"
+      ],
+      [
+        185,
+        191,
+        "SKILLS"
+      ],
+      [
+        307,
+        322,
+        "WORK EXPERIENCE"
+      ],
+      [
+        380,
+        387,
+        "PROJECT EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 165,
+    "text": "Summary: Experienced Java Developer with expertise in backend, middleware, and frontend development. Proficient in Java, SQL, PL/SQL, and web technologies. Strong problem-solving skills and ability to resolve project-related issues efficiently.\nEducation: B.E. in Computer Technology at Manoharbhai Patel Institute of Engineering and Technology\nEducation: HSC in Science at S.M.P. Science College\nSkills: Java, SQL, PL/SQL, C, C++, Ext JS, JSP, Bootstrap, Oracle, MS-SQL, MS-Access, MS-Excel\nWork Experience: Java Developer at Xoriant Solutions Pvt Ltd (Ongoing)",
+    "entities": [
+      [
+        245,
+        254,
+        "EDUCATION"
+      ],
+      [
+        397,
+        403,
+        "SKILLS"
+      ],
+      [
+        492,
+        507,
+        "WORK EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 166,
+    "text": "Education: BE in Electronics & Communication at Takshshila Institute of Technology\nSkills: Java, JavaScript\nWork Experience: Jr. Java Developer at Wab It Software Pvt. Ltd. (6 months)",
+    "entities": [
+      [
+        0,
+        9,
+        "EDUCATION"
+      ],
+      [
+        83,
+        89,
+        "SKILLS"
+      ],
+      [
+        108,
+        123,
+        "WORK EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 167,
+    "text": "Summary: Network Security Engineer with Cisco certifications and experience in various networking technologies.\nEducation: B.E in Technology at Mumbai university\nSkills: Not Provided, Not Provided, Not Provided, Not Provided\nWork Experience: Network Security Engineer at Stormfur Technologies LLP (Not Provided)\nProject: Temperature Controlled Cooling Fan - This project simply senses the temperature level and turn ON the FAN when temperature is above set limit. This project was developed with an aim to control the temperature of devices and reduce the damages of the devices because of heating.\nProject: Automatic Plant Watering System - This project simply senses the moisture level and turn ON the water pump when moisture is",
+    "entities": [
+      [
+        112,
+        121,
+        "EDUCATION"
+      ],
+      [
+        162,
+        168,
+        "SKILLS"
+      ],
+      [
+        225,
+        240,
+        "WORK EXPERIENCE"
+      ],
+      [
+        312,
+        319,
+        "PROJECT EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 168,
+    "text": "Summary: Java developer with experience in various technologies and tools.\nEducation: B.E. in Information Technology at Vidyalankar Institute of Technology\nSkills: Java/J2EE, Swift, HTML, Shell script, MySQL, Not Provided, MySQL, Not Provided\nWork Experience: Java Developer at Tech Mahindra (Not Provided)\nProject: OR-Formatter - OR-Formatter is an application which takes the input file as Geneva Modified File GMF from Geneva server and reads the data to generate Bill backup and Bill Invoices for Client customers of BT. These invoices would be sent across to all the clients after billing.\nProject: STAA - STAA is an encapsulation middleware layer, acting as an interface between client's operational support systems and Legacy systems. It transforms the legacy data into various formats such as TLV. Input is in form xml/http to STAA where validations are done and the response is sent to the back end systems where back end systems are CSS and COSMOSS Databases. The business methods deployed as EJBs on WebLogic Server shared across various market facing units of client.",
+    "entities": [
+      [
+        75,
+        84,
+        "EDUCATION"
+      ],
+      [
+        156,
+        162,
+        "SKILLS"
+      ],
+      [
+        243,
+        258,
+        "WORK EXPERIENCE"
+      ],
+      [
+        307,
+        314,
+        "PROJECT EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 169,
+    "text": "Summary: DevOps Engineer with software proficiency in various languages and tools.\nEducation: B.E. in Not Provided at Savitribai Phule Pune University\nSkills: C, SQL, PL/SQL, JAVA, JAVAEE, Javascript, HTML, CSS, jquery, mysql, Spring, Hibernate, Python, Not Provided, Not Provided, AWS\nWork Experience: DevOps Engineer at Parkar Consulting and Labs (Not Provided)\nProject: FPGA Implementation - B.E. Project: AES is Advanced Encryption Standard which is used in cryptography by which we can protect our data. It encrypted by a Secret Key.\nProject: Sorting Robot - T.E. project: The TCS 230 sensor sorts the RGB color balls according to their color.\nProject: RFID Based Student Attendance System Using GSM - Diploma Project: In this student show RFID card of his own and then message send via GSM to their parent that his ward is present.",
+    "entities": [
+      [
+        83,
+        92,
+        "EDUCATION"
+      ],
+      [
+        151,
+        157,
+        "SKILLS"
+      ],
+      [
+        286,
+        301,
+        "WORK EXPERIENCE"
+      ],
+      [
+        364,
+        371,
+        "PROJECT EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 170,
+    "text": "Summary: Senior Business Analyst with extensive experience in RPA, process automation, and business analysis. Skilled in documentation, testing, and integration with a strong background in Agile and Waterfall methodologies.\nEducation: Bachelor in Computer Engineering at Thadomal Shahani Engineering College\nEducation: Diploma in Computer Engineering at Institute of Technology\nEducation: Secondary School Certificate in General Education at New English High School\nSkills: SQL\nWork Experience: Senior Business Analyst - RPA at Hexaware Technologies (Unknown)\nWork Experience: Business Analyst at BBH - Brown Brothers Harriman & Co (Unknown)\nWork Experience: Business Analyst at First Advantage (FADV) (Unknown)",
+    "entities": [
+      [
+        224,
+        233,
+        "EDUCATION"
+      ],
+      [
+        466,
+        472,
+        "SKILLS"
+      ],
+      [
+        478,
+        493,
+        "WORK EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 171,
+    "text": "Education: MCA in Computer Science at SGBAU, Amravati\nSkills: Java, JavaScript, Spring, Hibernate, Struts\nWork Experience: Java Web Developer at Salcluster Technologies (6 months)",
+    "entities": [
+      [
+        0,
+        9,
+        "EDUCATION"
+      ],
+      [
+        54,
+        60,
+        "SKILLS"
+      ],
+      [
+        106,
+        121,
+        "WORK EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 172,
+    "text": "Summary: Achievement-oriented professional with strong problem-solving, coordination, and analytical skills. Experienced in managing multiple tasks and projects simultaneously, with excellent communication and interpersonal abilities. Willing to travel and relocate.\nEducation: B.E in Electrical and Electronics Engineering at VTU (Vishweshwariya University)\nEducation: HSC in  at Kisanveer Mahavidyalay WAI\nWork Experience: Electrical Engineer at REFCON ENGINEERING PVT. LTD ()\nWork Experience: Asst. Electrical Engineer at KISANVEER SUGARS PVT. LTD (1.5 years)",
+    "entities": [
+      [
+        267,
+        276,
+        "EDUCATION"
+      ],
+      [
+        408,
+        423,
+        "WORK EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 173,
+    "text": "Summary: SAP Technical Architect and Consultant with 13+ years of experience in SAP, covering implementation, upgrade, application development, and maintenance. Expertise in SAP ABAP, SAP NetWeaver Gateway, S/4HANA, and multiple SAP modules. Strong leadership, client interaction, and project management skills.\nSkills: SAP ABAP, SAP NetWeaver Gateway, oData, Fiori\nWork Experience: SAP Technical Architect at Unknown (13+ years)",
+    "entities": [
+      [
+        312,
+        318,
+        "SKILLS"
+      ],
+      [
+        366,
+        381,
+        "WORK EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 174,
+    "text": "Education: Bachelor of Engineering in Computer at Savitribai Phule Pune University\nEducation: HSC in  at Maharashtra State Board\nEducation: SSC in  at Maharashtra State Board\nSkills: Python, Django, MySQL, REST API, HTML5\nWork Experience: Python Developer at Atos Syntel (15 months)",
+    "entities": [
+      [
+        0,
+        9,
+        "EDUCATION"
+      ],
+      [
+        175,
+        181,
+        "SKILLS"
+      ],
+      [
+        222,
+        237,
+        "WORK EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 175,
+    "text": "Education: BE in Information Technology at PJLCE\nSkills: C++, C, Java, DS, Hibernate, JDBC, Java J2EE\nWork Experience: Java Developer at Almighty Tech Pvt Ltd ()",
+    "entities": [
+      [
+        0,
+        9,
+        "EDUCATION"
+      ],
+      [
+        49,
+        55,
+        "SKILLS"
+      ],
+      [
+        102,
+        117,
+        "WORK EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 176,
+    "text": "Education: BE in Information Technology at PJLCE\nSkills: C++, C, Java, DS, Hibernate, JDBC, Java J2EE\nWork Experience: Java Developer at Almighty Tech Pvt Ltd ()",
+    "entities": [
+      [
+        0,
+        9,
+        "EDUCATION"
+      ],
+      [
+        49,
+        55,
+        "SKILLS"
+      ],
+      [
+        102,
+        117,
+        "WORK EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 177,
+    "text": "Summary: Experienced Java Developer with expertise in Core Java, Advanced Java, Hibernate, Spring, and Android development. Passionate about teaching and mentoring in programming and database technologies.\nEducation: Master of Engineering in Information Technology at M.I.T\nEducation: Bachelor of Engineering in Information Technology at Amravati University\nSkills: C, C++, Java, Android, Hibernate, Spring, MS Access, SQL, Oracle\nWork Experience: Java Developer at Maxgen Technologies (Unknown)\nWork Experience: Java Developer at MIS Generation of Tata Sky and Tata Power (Unknown)\nProject: Location Detector of Computing and Mobile Devices - An Android application for detecting the location of computing and mobile devices.\nProject: Data Deduplication - A Java-based project aimed at reducing redundant data in a system by storing unique copies and using pointers for access.",
+    "entities": [
+      [
+        206,
+        215,
+        "EDUCATION"
+      ],
+      [
+        358,
+        364,
+        "SKILLS"
+      ],
+      [
+        431,
+        446,
+        "WORK EXPERIENCE"
+      ],
+      [
+        583,
+        590,
+        "PROJECT EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 178,
+    "text": "Education: BE in Computer Engineering at Late G.N. Sapkal College of Engineering\nEducation: Diploma in Computer Technology at K K Wagh Polytechnic\nSkills: Java, J2EE, Spring MVC, Ionic 3, AngularJS, Struts, MySQL, MsSQL, Oracle, Azure Web Services\nWork Experience: Java Developer at Replete Business Solutions Pvt Ltd ()",
+    "entities": [
+      [
+        0,
+        9,
+        "EDUCATION"
+      ],
+      [
+        147,
+        153,
+        "SKILLS"
+      ],
+      [
+        248,
+        263,
+        "WORK EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 179,
+    "text": "Summary: Full Stack Java Developer with experience in Java, Spring Boot, JSP, and front-end technologies. Skilled in building web applications and working with databases.\nEducation: MCA in Computer Applications at Pune University\nEducation: BCA in Computer Applications at Amravati University\nSkills: Java, Spring Boot, JSP, Servlet, MySQL\nWork Experience: Java Developer at Salcluster Technologies ()\nWork Experience: Intern at OmegaSoft Technologies Pvt. Ltd. (5 months)\nProject: GST And Sales Billing Software - A web application for GST billing, invoice generation, and sales management using Java (Servlet and JSP), JavaScript, JQuery, Ajax, and MySQL.\nProject: Dinman News Website - A website for displaying online video and text news using Java (Servlet and JSP), JavaScript, JQuery, Ajax, and MySQL.\nProject: Agri Management Website - A website for purchasing and selling vegetables across India using Java (Servlet and JSP), JavaScript, JQuery, Ajax, and MySQL.",
+    "entities": [
+      [
+        171,
+        180,
+        "EDUCATION"
+      ],
+      [
+        293,
+        299,
+        "SKILLS"
+      ],
+      [
+        340,
+        355,
+        "WORK EXPERIENCE"
+      ],
+      [
+        473,
+        480,
+        "PROJECT EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 180,
+    "text": "Summary: Java Developer and Automation Testing professional with experience in software testing, automation frameworks, and Java development.\nEducation: B.E. in Computer Engineering at Savitribai Phule University of Pune\nSkills: Java, C++, SQL, TestNG, Selenium WebDriver, SQL, Eclipse, Postman, Jenkins\nWork Experience: Jr. Java Developer at Phoenix Microsystems Pvt. Ltd. (Unknown)\nProject: SWB-EBS Support - Inventory Operation System for managing inventories, scheduling, and invoicing.\nProject: Intelligen for Mobile App Dev KAUAPC - Inventory Management System (IMS) for retailers to track inventory, costs, and sales.\nProject: Loan LeLo Automation - Automated loan selection and registration system for customers.\nProject: DDSM Automation - Automated system for managing customer and user details with role-based permissions.",
+    "entities": [
+      [
+        142,
+        151,
+        "EDUCATION"
+      ],
+      [
+        221,
+        227,
+        "SKILLS"
+      ],
+      [
+        304,
+        319,
+        "WORK EXPERIENCE"
+      ],
+      [
+        384,
+        391,
+        "PROJECT EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 181,
+    "text": "Summary: DevOps Engineer with software proficiency in various languages and tools.\nEducation: B.E. in Not Provided at Savitribai Phule Pune University\nSkills: C, SQL, JAVA, Javascript, HTML, CSS, Jquery, JavaEE, Mysql, Python, Not Provided, Not Provided, AWS\nWork Experience: DevOps Engineer at Parkar Consulting and Labs (Not Provided)\nProject: FPGA Implementation - B.E. Project: AES Algorithm is Advanced Encryption Standard which is used in cryptography by which we can protect our data. It encrypted by a Secret Key.\nProject: Sorting Robot - T.E. project: The TCS 230 sensor sorts the RGB color balls according to their color.\nProject: RFID Based Student Attendance System Using GSM - Diploma Project: In this student show RFID card of his own and then message send via GSM to their parent that his ward is present.",
+    "entities": [
+      [
+        83,
+        92,
+        "EDUCATION"
+      ],
+      [
+        151,
+        157,
+        "SKILLS"
+      ],
+      [
+        259,
+        274,
+        "WORK EXPERIENCE"
+      ],
+      [
+        337,
+        344,
+        "PROJECT EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 182,
+    "text": "Summary: Java Developer with experience in Hibernate, JSP, and Servlets. Passionate about software development and programming.\nEducation: ME in Computer Engineering at Savitribai Phule Pune University\nEducation: SSC in General Education at Maharashtra Secondary Board\nSkills: Java, C, C++, Hibernate, JSP, Servlets, SQL, Oracle 9i, Oracle 10g, MySQL\nWork Experience: Java Developer at Maxgen Technologies Pvt. Ltd. (Unknown)\nWork Experience: Trainer at Prakshal IT Academy (Unknown)\nProject: Banking Software - Used GSM technology for transaction messages for security purposes.\nProject: Single Sign-On - Created a single sign-on mechanism for network security.\nProject: Text-Based Graphical Password - Developed a secure password system using Random Printing Algorithm to prevent shoulder surfing attacks.\nProject: Agriculture Management System - Created a web application for agriculture system and farming.",
+    "entities": [
+      [
+        128,
+        137,
+        "EDUCATION"
+      ],
+      [
+        269,
+        275,
+        "SKILLS"
+      ],
+      [
+        351,
+        366,
+        "WORK EXPERIENCE"
+      ],
+      [
+        484,
+        491,
+        "PROJECT EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 183,
+    "text": "Summary: Python Developer/analyst\nEducation: B.E. in Electronics at University of Mumbai\nSkills: Python, HTML, Java, Django, MySQL, Unknown\nWork Experience: Python Developer/analyst at Ace The Power of 5 (12 months)\nProject: fruit sorting and disease detection - Unknown",
+    "entities": [
+      [
+        34,
+        43,
+        "EDUCATION"
+      ],
+      [
+        89,
+        95,
+        "SKILLS"
+      ],
+      [
+        140,
+        155,
+        "WORK EXPERIENCE"
+      ],
+      [
+        216,
+        223,
+        "PROJECT EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 184,
+    "text": "Education: M.Sc. in Computer Science at Pune University\nEducation: B.Sc. in Computer Science at Pune University\nSkills: Python, AS/400, Flask, MongoDB, MySQL\nWork Experience: Python RESTful API developer at KPIT Technologies ()",
+    "entities": [
+      [
+        0,
+        9,
+        "EDUCATION"
+      ],
+      [
+        112,
+        118,
+        "SKILLS"
+      ],
+      [
+        158,
+        173,
+        "WORK EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 185,
+    "text": "Summary: Devops Engineer with experience in various Dev-ops methodologies and tools.\nEducation: Masters in science information technology at JNTU\nSkills: C, Core Java, Unknown, Unknown, Unknown\nWork Experience: Devops Engineer at Nendrasys Technologies Pvt Ltd (Unknown)\nProject: Unknown - Unknown",
+    "entities": [
+      [
+        85,
+        94,
+        "EDUCATION"
+      ],
+      [
+        146,
+        152,
+        "SKILLS"
+      ],
+      [
+        194,
+        209,
+        "WORK EXPERIENCE"
+      ],
+      [
+        271,
+        278,
+        "PROJECT EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 186,
+    "text": "Summary: Devops Engineer with strong focus on Dev-ops methodologies, C, Core Java, GIT, Bitbucket, ANT, Maven, Jenkins, Ansible, Shell Script, Apache Tomcat server.\nEducation: Masters in science information technology at JNTU\nSkills: C, Core Java, Unknown, Unknown, Unknown\nWork Experience: Devops Engineer at Nendrasys Technologies Pvt Ltd (Unknown)\nProject: Sloan Global Holdings (Sloan) (E-commerce) - BBL is development of an e-commerce payment portal System. As such BBL require a system which can support multiple merchants B2B/B2C e-commerce portal with various payment options via both online and offline. To achieve this BBL had made an agreement with Thai Trade, Thai Trade is one of the leading e-commerce website recognized by Thai government. In present Thai trade has a good base of users and sellers in several categories .The scope of the project is to design and develop e-commerce product features for BBLWTP project. It focuses on the company, the stakeholders and applications, which allow for online sales, distribution and marketing of electronics.",
+    "entities": [
+      [
+        165,
+        174,
+        "EDUCATION"
+      ],
+      [
+        226,
+        232,
+        "SKILLS"
+      ],
+      [
+        274,
+        289,
+        "WORK EXPERIENCE"
+      ],
+      [
+        351,
+        358,
+        "PROJECT EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 187,
+    "text": "Summary: Communication Skills, Interpersonal Skills, Learning Skills, Problem Solving Skills\nEducation: Bachelor of Science in Information Technology at Akbar Peerbhoy College of Comm & Eco. (University of Mumbai)\nEducation: Not Provided in Not Provided at Janta Inter College Jaunpur\nEducation: Not Provided in Not Provided at Inter College Jaunpur\nWork Experience: Network Security Engineer at Karvy Innotech LTD. (24 months)",
+    "entities": [
+      [
+        93,
+        102,
+        "EDUCATION"
+      ],
+      [
+        350,
+        365,
+        "WORK EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 188,
+    "text": "Education: B.E in Information Technology at Savitribai Phule Pune University\nEducation: Higher Secondary School in  at\nSkills: Java, Spring, Hibernate, MongoDB, MySQL\nWork Experience: Java Developer at Vertical Software ()\nProject: Expense Ledger -\nProject: Trimurti Developer (Real Estate) -\nProject: Vimay Enterprise -",
+    "entities": [
+      [
+        0,
+        9,
+        "EDUCATION"
+      ],
+      [
+        119,
+        125,
+        "SKILLS"
+      ],
+      [
+        167,
+        182,
+        "WORK EXPERIENCE"
+      ],
+      [
+        223,
+        230,
+        "PROJECT EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 189,
+    "text": "Summary: Python Developer\nEducation: BE in Unknown at Dr.BAMU,Aurangabad\nSkills: Python, CSS, HTML, MySQL, Django, web services, Logger, Mongodb, json, Unix, Rest, Sqlit3, Django, MySQL, Mongodb, Unknown\nWork Experience: Python Developer at Arsys Inovics pvt ltd (Unknown)\nProject: F-MAS (Frequency Monitoring and Analysis Systems - (F-MAS)) - F-MAS is a project for managing network inventory, network communication, fault management & network traffic analysis. The telecommunications service providers, are used to support a range of telecommunication services. The Operations Support Systems (OSS) collectively provides support for various elements used in Public Switched Telephone Networks, for example processing an order may require information on the services the customer already has, the network they are using, and currently available resources.",
+    "entities": [
+      [
+        26,
+        35,
+        "EDUCATION"
+      ],
+      [
+        73,
+        79,
+        "SKILLS"
+      ],
+      [
+        204,
+        219,
+        "WORK EXPERIENCE"
+      ],
+      [
+        273,
+        280,
+        "PROJECT EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 190,
+    "text": "Summary: Python Developer with experience in various technologies and tools.\nEducation: Bachelor of Engineering in Computer at Savitribai Phule Pune University\nSkills: Python, Django, MySQL, REST API\nWork Experience: Python Developer at Atos Syntel (Unknown)\nProject: Unknown - Unknown",
+    "entities": [
+      [
+        77,
+        86,
+        "EDUCATION"
+      ],
+      [
+        160,
+        166,
+        "SKILLS"
+      ],
+      [
+        200,
+        215,
+        "WORK EXPERIENCE"
+      ],
+      [
+        259,
+        266,
+        "PROJECT EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 191,
+    "text": "Education: High School in  at VidyaBharati College\nEducation: Secondary School in  at Holy Cross English School\nSkills: Java, Spring, Hibernate, jQuery, MySQL\nWork Experience: Java Developer at Kunal IT Services Pvt Ltd (2 years)\nWork Experience: Java Developer at Winsol Solution Pvt Ltd ()",
+    "entities": [
+      [
+        0,
+        9,
+        "EDUCATION"
+      ],
+      [
+        112,
+        118,
+        "SKILLS"
+      ],
+      [
+        159,
+        174,
+        "WORK EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 192,
+    "text": "Summary: Achievement-oriented professional with strong problem-solving, coordination, and analytical skills. Experienced in managing multiple tasks and projects simultaneously with excellent communication and organizational abilities. Willing to travel and relocate.\nEducation: B.E in Electrical and Electronics Engineering at VTU (Vishweshwariya University)\nEducation: HSC in  at Kisanveer Mahavidyalay\nWork Experience: Electrical Engineer at REFCON ENGINEERING PVT. LTD ()\nWork Experience: Asst. Electrical Engineer at KISANVEER SUGARS PVT. LTD (1.5 years)\nProject: Greenfield Projects - Managed multiple Greenfield projects, including breweries, food processing plants, and industrial automation.",
+    "entities": [
+      [
+        267,
+        276,
+        "EDUCATION"
+      ],
+      [
+        404,
+        419,
+        "WORK EXPERIENCE"
+      ],
+      [
+        559,
+        566,
+        "PROJECT EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 193,
+    "text": "Summary: DevOps Engineer with software proficiency in various languages and tools.\nEducation: B.E. in Not Provided at Savitribai Phule Pune University\nSkills: C, SQL, PL/SQL, JAVA, JAVAEE, Javascript, HTML, CSS, jquery, mysql, Spring, Hibernate, Python, Not Provided, Not Provided, AWS\nWork Experience: DevOps Engineer at Parkar Consulting and Labs (Not Provided)\nProject: FPGA Implementation - B.E. Project: AES Algorithm is Advanced Encryption Standard which is used in cryptography by which we can protect our data. It encrypted by a Secret Key.\nProject: Sorting Robot - T.E. project: The TCS 230 sensor sorts the RGB color balls according to their color.\nProject: RFID Based Student Attendance System Using GSM - Diploma Project: In this student show RFID card of his own and then message send via GSM to their parent that his ward is present.",
+    "entities": [
+      [
+        83,
+        92,
+        "EDUCATION"
+      ],
+      [
+        151,
+        157,
+        "SKILLS"
+      ],
+      [
+        286,
+        301,
+        "WORK EXPERIENCE"
+      ],
+      [
+        364,
+        371,
+        "PROJECT EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 194,
+    "text": "Summary: DevOps Engineer with experience in various programming languages and software tools.\nEducation: B.E. in Unknown at Savitribai Phule Pune University\nSkills: C, SQL, JAVA, Spring, Hibernate, mysql, AWS\nWork Experience: DevOps Engineer at Parkar Consulting and Labs (Unknown)\nProject: FPGA Implementation - AES is Advanced Encryption Standard which is used in cryptography by which we can protect our data. It encrypted by a Secret Key.\nProject: Sorting Robot - The TCS 230 sensor sorts the RGB color balls according to their color.\nProject: RFID Based Student Attendance System Using GSM - In this student show RFID card of his own and then message send via GSM to their parent that his ward is present.",
+    "entities": [
+      [
+        94,
+        103,
+        "EDUCATION"
+      ],
+      [
+        157,
+        163,
+        "SKILLS"
+      ],
+      [
+        209,
+        224,
+        "WORK EXPERIENCE"
+      ],
+      [
+        282,
+        289,
+        "PROJECT EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 195,
+    "text": "Summary: Python RESTful API developer with hands-on experience in production and maintenance of projects, agile methodology, SDLC, customer interaction, debugging and testing based on Python and AS/400. Strong communication and interpersonal skills.\nEducation: MSc in Computer Science at Pune University\nEducation: BSc in Computer Science at Pune University\nSkills: Python, AS/400, Flask, MongoDB, MySQL, Pivotal Cloud Foundry\nWork Experience: Python API Developer at KPIT Technologies (Not Provided)\nProject: Not Provided - Not Provided",
+    "entities": [
+      [
+        250,
+        259,
+        "EDUCATION"
+      ],
+      [
+        358,
+        364,
+        "SKILLS"
+      ],
+      [
+        427,
+        442,
+        "WORK EXPERIENCE"
+      ],
+      [
+        501,
+        508,
+        "PROJECT EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 196,
+    "text": "Summary: Python Developer/analyst\nEducation: B.E. in Electronics at University of Mumbai\nSkills: Python, HTML, Django, MySQL, Not Provided\nWork Experience: Python Developer/analyst at Ace The Power of 5 (12 months)\nWork Experience: Python Developer/analyst at Kranti Dynamics (12 months)\nProject: Fruit sorting and disease detection - Not Provided",
+    "entities": [
+      [
+        34,
+        43,
+        "EDUCATION"
+      ],
+      [
+        89,
+        95,
+        "SKILLS"
+      ],
+      [
+        139,
+        154,
+        "WORK EXPERIENCE"
+      ],
+      [
+        288,
+        295,
+        "PROJECT EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 197,
+    "text": "Summary: Devops Engineer with strong skills in Ant, Maven, GIT, Bitbucket, Jenkins, Linux, Ansible, Shell Scripting, Requirement Gathering, Continuous Integration and Continuous Deployment, Software Development Life Cycle, Software Testing Life Cycle, Documentation & Reporting, Test Reports.\nEducation: Masters in science information technology at JNTU\nSkills: C, Core Java, Unknown, Unknown, Unknown\nWork Experience: Devops Engineer at Nendrasys Technologies Pvt Ltd (Unknown)\nProject: Sloan Global Holdings (Sloan) (E-commerce) - The Scope of the project is to design & develop e-commerce product features for sloan project. It's a basically B2B project where customer can buy all fixers, sinks related product. It focuses on the company, the stakeholders and applications, which allow for online sales, distribution and marketing of product.",
+    "entities": [
+      [
+        293,
+        302,
+        "EDUCATION"
+      ],
+      [
+        354,
+        360,
+        "SKILLS"
+      ],
+      [
+        402,
+        417,
+        "WORK EXPERIENCE"
+      ],
+      [
+        479,
+        486,
+        "PROJECT EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 198,
+    "text": "Education: BE in Computer Engineering at Late G.N. Sapkal College of Engineering\nEducation: Diploma in Computer Technology at K K Wagh Polytechnic\nSkills: Java, J2EE, Spring MVC, Ionic 3, AngularJS, Struts, MySQL, MsSQL, Oracle, Azure Web Services, AJAX, HTML, JSON, JavaScript, Apache Tomcat Server, Windows Server 2012 R2, Windows XP/7/8.1/10, Linux, Mac OS\nWork Experience: Java Developer at Replete Business Solutions Pvt Ltd ()",
+    "entities": [
+      [
+        0,
+        9,
+        "EDUCATION"
+      ],
+      [
+        147,
+        153,
+        "SKILLS"
+      ],
+      [
+        360,
+        375,
+        "WORK EXPERIENCE"
+      ]
+    ]
+  },
+  {
+    "id": 199,
+    "text": "Education: MCA in Computer Science at SGBAU, Amravati\nSkills: Java, JavaScript, Spring, Hibernate, Struts\nWork Experience: Java Web Developer at Salcluster Technologies (6 months)",
+    "entities": [
+      [
+        0,
+        9,
+        "EDUCATION"
+      ],
+      [
+        54,
+        60,
+        "SKILLS"
+      ],
+      [
+        106,
+        121,
+        "WORK EXPERIENCE"
+      ]
+    ]
+  }
+]
